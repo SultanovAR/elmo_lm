@@ -1,0 +1,20 @@
+Журнал: 
+    Запрогал все методы слияния двух распределений 
+    
+Задача А:
+    Необходимо провести эксперимент для выбора лучшего из имеющихся слияний:
+    В качестве оценки слияния будет взята частота угадывания исходных слов в предложении, при частоте замены слов = 1
+    
+    предложения используемые в эксперименте:
+    1)"Almost half of all iPhone owners have broken their screens, not just once but an average of two times each."
+    2)"i really don't understand your point.\xa0 It seems that you are mixing apples and oranges."
+    3)"shut the fuck up. you and the rest of your faggot friends should be burned at the stake"
+    4)"That you are an idiot who understands neither taxation nor women's health."
+    5)"What on Earth is that about? Is it what's going to get him fired eventually?"
+    6)"This is a doctrine of constitutional interpretation that says that a constitution is organic and must be read in a broad and liberal manner so as to adapt it to changing times."
+    7)"In the 2000s, music notation typically means the written expression of music notes and rhythms on paper using symbols."
+    8)"Most of the mathematical notation in use today was not invented until the 16th century.[52] Before that, mathematics was written out in words, limiting mathematical discovery."
+    9)"Physical geography deals with the study of processes and patterns in the natural environment like the atmosphere, hydrosphere, biosphere, and geosphere."
+    10)"An autobiography is written by the person himself or herself, sometimes with the assistance of a collaborator or ghostwriter."
+    
+    Считалось кол-во угаданных токенов/ кол-во всех токенов, повторялся эксперимент 10 раз, затем результаты усреднялись 
