@@ -1,0 +1,1231 @@
+,candidates,distr,num_of_candidate,num_sent,num_token,replaced,result,source
+0,"[',' 'a' '""' 'that' '--' 'But' 'And' 'Some' 'About' 'Only' 'Over']",[0. 0. 0. ... 0. 0. 0.],11,0,0,True,But,Almost
+1,"[',' 'two' 'most' 'three' 'four' '10' 'five' 'six' 'eight' 'two-thirds'
+ 'one-third' 'three-quarters' 'one-quarter' 'three-fourths']",[0. 0. 0. ... 0. 0. 0.],14,0,1,True,three-quarters,half
+2,,,0,0,2,False,of,of
+3,,,0,0,3,False,all,all
+4,,,0,0,4,False,iPhone,iPhone
+5,,,0,0,5,False,owners,owners
+6,,,0,0,6,False,have,have
+7,"['<UNK>' ',' 'to' 'and' 'in' '""' 'on' 'at' 'or' 'all' 'set' 'use' 'run'
+ 'hit' 'cut' 'using' 'read' 'changed']",[0.         0.         0.05556452 ... 0.         0.         0.        ],18,0,7,True,hit,broken
+8,"['<UNK>' 'the' ',' 'to' 'of' 'and' 'a' 'in' '""' 'that' 'for' 'on' 'with'
+ 'at' 'from' 'his' 'more' 'or' 'its' 'up' 'one' 'two' 'all' 'over' 'into'
+ 'other' 'new' 'some' 'most' 'three' 'many' 'off' 'down' 'our' 'such'
+ 'those' 'my' 'four' 'both' 'these' 'five' 'several' 'old' 'data' 'TV'
+ 'phone' 'personal' 'Web' 'certain' 'mobile' 'contact' 'standard'
+ 'digital' 'screen' 'multiple' 'electronic']",[0.       0.       0.017845 ... 0.       0.       0.      ],56,0,8,True,his,their
+9,"['<UNK>' 'the' ',' 'to' 'and' 'a' '""' 'it' ')' 'or' 'one' 'year' 'first'
+ 'other' 'time' 'back' 'off' 'world' 'company' 'country' 'way' 'work'
+ 'state' 'end' 'money' 'own' 'business' 'use' 'right' 'companies' 'deal'
+ 'little' 'information' 'pay' 'sales' 'prices' 'car' 'law' 'service'
+ 'services' 'tax' 'price' 'side' 'banks' 'credit' 'policy' 'online'
+ 'rates' 'music' 'products' 'book' 'insurance' 'friends' 'hand' 'phone'
+ 'personal' 'rules' 'terms' 'travel' 'numbers' 'feet' 'friend' 'Google'
+ 'product' 'hands' 'date' 'sex' 'relationship' 'target' 'contact' 'laws'
+ 'word' 'advertising' 'language' 'weight' 'Facebook' 'airline' 'e-mail'
+ 'partners' 'messages' 'phones' 'text' 'behavior' 'behaviour' 'code'
+ 'relationships' 'neck' 'sentences' 'habits']",[0.         0.         0.01124919 ... 0.         0.         0.        ],89,0,9,True,date,screens
+10,"['<UNK>' 'the' '.' 'to' 'of' 'and' 'a' 'in' '""' ""'s"" 'that' 'for' 'on'
+ 'with' 'as' 'at' 'by' '(' '--' 'but' 'this' 'more' 'or' 'about' ':' 'up'
+ 'one' 'out' 'two' '-' 'all' ""'"" 'other' 'if' 'so' 'three' ';' 'off'
+ 'down' 'even' 'including' 'used' 'each' 'online' 'twice']",[0.         0.         0.02219878 ... 0.         0.         0.        ],45,0,10,True,two,","
+11,,,0,0,11,False,not,not
+12,"['the' ',' 'to' 'of' 'and' 'a' 'in' '""' 'that' 'for' 'on' 'with' 'as' 'at'
+ 'it' 'by' 'from' 'have' 'an' 'not' 'about' 'up' 'one' 'than' 'out' 'two'
+ 'all' 'over' 'other' 'some' 'them' 'only' 'like' 'made' 'any' 'off'
+ 'even' 'much' 'your' 'good' 'used' 'least' 'less' 'every' 'taken' 'seen'
+ 'given' 'saying' 'nearly' 'almost' 'using' 'done' 'doing' 'someone'
+ 'quite' 'twice' 'paying' 'exactly' 'merely']",[0. 0. 0. ... 0. 0. 0.],59,0,12,True,merely,just
+13,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'a' 'in' '""' 'that' 'for' 'on'
+ 'with' 'as' 'at' 'by' 'from' 'not' 'more' 'about' 'up' 'one' 'out' 'two'
+ 'people' 'all' 'over' 'other' 'just' 'before' 'most' 'three' 'many'
+ 'another' 'good' 'used' 'every' 'small' 'something' 'doing' 'personal'
+ 'slightly']",[0.         0.         0.02324699 ... 0.         0.         0.        ],43,0,13,True,on,once
+14,,,0,0,14,False,but,but
+15,,,0,0,15,False,an,an
+16,"['<UNK>' 'a' '""' 'one' 'two' 'all' 'first' 'most' 'each' 'quarter' 'half'
+ 'times' 'increase' 'amount' 'twice' 'equivalent' 'excess']",[0.         0.         0.05880563 ... 0.         0.         0.        ],17,0,16,True,most,average
+17,,,0,0,17,False,of,of
+18,"['at' 'more' 'one' 'some' 'million' 'three' 'many' 'four' '10' 'five' '1'
+ 'few' 'six' '20' '30' 'several' '2' 'half' '12' '11' '15' '3' '5' '4'
+ 'seven' '50' '100' 'eight' '25' '18' '14' '16' '7' '13' '8' '6' '40' '9'
+ '17' 'nine' '24' '19' '22' '21' '60' '23' '28' '500' '200' '70' '35' '80'
+ '1,000' '45' '90' '300' '32' '33' '100,000' '75' '10,000' 'ten' '2,000'
+ '1.5' '5,000' '3,000' '250' '50,000' '2.5' '1.2' '250,000' '1.3' '3.5'
+ '1.4' '1.6' '1.7' '4.5' '2.4' '2.7' '2.6' '3.6' 'twenty' 'two-and-a-half']",[0. 0. 0. ... 0. 0. 0.],83,0,18,True,few,two
+19,,,0,0,19,False,times,times
+20,,,0,0,20,False,each,each
+21,,,0,0,21,False,.,.
+22,"['<UNK>' ',' '""' 'that' 'he' 'I' '--' 'We' 'They' 'You' 'Some' 'Americans'
+ 'People']",[0.        0.        0.0768087 ... 0.        0.        0.       ],13,1,0,True,They,i
+23,,,0,1,1,False,really,really
+24,,,0,1,2,False,do,do
+25,"['<UNK>' ',' 'and' '""' 'but' ""'t"" 'you' 'all' 'just' 'now' 'do' 'even'
+ 'still' 'really' 'always' 'actually' 'quite' 't']",[0.         0.         0.05554684 ... 0.         0.         0.        ],18,1,3,True,still,not
+26,,,0,1,4,False,understand,understand
+27,,,0,1,5,False,your,your
+28,"['<UNK>' 'the' ',' '.' 'and' '""' 'that' 'is' 'this' 'more' 'or' 'you'
+ 'people' 'first' ""'"" 'other' 'time' 'government' 'world' 'company'
+ 'country' 'way' 'work' 'state' 'money' 'own' 'report' 'children'
+ 'business' 'use' 'family' 'need' '...' 'right' 'health' 'life' 'points'
+ 'case' 'best' 'system' 'campaign' 'statement' 'saying' 'side' 'issue'
+ 'media' 'line' 'problems' 'problem' 'history' 'name' 'level' 'issues'
+ 'needs' 'book' 'experience' 'question' 'list' 'idea' 'value' 'friends'
+ 'hand' 'questions' 'rules' 'concerns' 'comment' 'terms' 'love'
+ 'situation' 'reason' 'sense' 'view' 'approach' 'message' 'friend' 'words'
+ 'concern' 'true' 'choice' 'mind' 'kids' 'taxes' 'reasons' 'thinking'
+ 'advice' 'options' 'reading' 'interests' 'style' 'values' 'behavior'
+ 'facts' 'choices' 'mouth']",[0.         0.         0.01072514 ... 0.         0.         0.        ],94,1,6,True,hand,point
+29,,,0,1,7,False,.,.
+30,"[',' '""']",[0. 0. 0. ... 0. 0. 0.],2,1,8,True,",",It
+31,,,0,1,9,False,seems,seems
+32,"['<UNK>' 'the' ',' 'to' 'of' 'and' 'in' '""' 'for' 'as' 'it' 'not' 'but'
+ 'more' 'about' 'you' 'when' 'people' 'there' 'if' 'so' 'what' 'like'
+ 'because' 'now' 'how' 'much' 'well' '...' 'here' 'likely' 'why'
+ 'possible' 'sure']",[0.         0.         0.02940183 ... 0.         0.         0.        ],34,1,10,True,for,that
+33,,,0,1,11,False,you,you
+34,,,0,1,12,False,are,are
+35,,,0,1,13,False,mixing,mixing
+36,,,0,1,14,False,apples,apples
+37,,,0,1,15,False,and,and
+38,['<UNK>' 'the'],[0.         0.         0.50095572 ... 0.         0.         0.        ],2,1,16,True,<UNK>,oranges
+39,"['<UNK>' 'to' 'of' 'and' 'in' '""' 'for' 'at' 'by' 'from' '(' 'or' 'after'
+ 'up' 'if' 'just' 'before' 'above']",[0.         0.         0.05545153 ... 0.         0.         0.        ],18,1,17,True,from,.
+40,"['<UNK>' 'the' ',' ""'s"" 'that' 'Obama' 'And' 'For' 'Take']",[0.         0.         0.11121451 ... 0.         0.         0.        ],9,2,0,True,Obama,shut
+41,,,0,2,1,False,the,the
+42,"['<UNK>' 'the' ',' 'and' '""' 'two' ""'"" 'other' 'back' 'way' 'end' 'show'
+ 'right' 'top' 'line' 'open' 'fire' 'book' 'stock' 'ground' 'eyes'
+ 'lights']",[0.         0.         0.04560827 ... 0.         0.         0.        ],22,2,2,True,two,fuck
+43,,,0,2,3,False,up,up
+44,,,0,2,4,False,.,.
+45,"['<UNK>' ',' '""' ')' 'I' '--' '-' '...' '!']",[0.         0.         0.11112126 ... 0.         0.         0.        ],9,2,5,True,",",you
+46,,,0,2,6,False,and,and
+47,,,0,2,7,False,the,the
+48,"['<UNK>' 'the' ',' '""' 'more' 'one' 'two' 'last' 'first' 'other' 'only'
+ 'most' 'three' 'many' 'group' 'good' 'few' 'best' 'couple']",[0.         0.         0.05263978 ... 0.         0.         0.        ],19,2,8,True,good,rest
+49,,,0,2,9,False,of,of
+50,,,0,2,10,False,your,your
+51,,,0,2,11,False,faggot,faggot
+52,,,0,2,12,False,friends,friends
+53,,,0,2,13,False,should,should
+54,,,0,2,14,False,be,be
+55,,,0,2,15,False,burned,burned
+56,,,0,2,16,False,at,at
+57,,,0,2,17,False,the,the
+58,,,0,2,18,False,stake,stake
+59,,,0,3,0,False,That,That
+60,,,0,3,1,False,you,you
+61,,,0,3,2,False,are,are
+62,,,0,3,3,False,an,an
+63,"['<UNK>' 'the' ',' '""' ""'"" 'Obama' 'American' 'area' 'industry' 'official'
+ 'issue' 'executive' 'officer' 'example' 'owner' 'individual'
+ 'organization' 'agent' 'actor' 'author' 'expert' 'artist' 'adviser' 'MP'
+ 'employee' 'actress' 'adult' 'investor' 'economist' 'activist' 'employer'
+ 'advocate' 'architect' 'icon' 'athlete' 'advisor' 'entrepreneur'
+ 'accountant' 'organizer' 'educator']",[0.        0.        0.0250723 ... 0.        0.        0.       ],40,3,4,True,official,idiot
+64,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'in' '""' ""'s"" 'that' 'for' 'with'
+ 'he' 'I' '--' 'but' 'this' 'or' ':' 'also' 'you' '-' '?' 'only' 'now'
+ 'Obama' 'says' 'still' 'man' '...' '!' 'really']",[0.         0.         0.03021554 ... 0.         0.         0.        ],33,3,5,True,really,who
+65,"['<UNK>' ',' 'to' 'and' 'in' '""' ""'s"" 'that' 'is' 'said' 'have' 'has'
+ 'are' 'not' 'will' 'you' 'so' 'like' 'do' 'says' 'should' 'think' 'need'
+ 'does' 'believe' 'needs' 'makes' 'means' 'offers' 'believes' 'knows'
+ 'represents' 'uses' 'supports' 'enjoys' 'encourages' 'favors' 'teaches'
+ 'treats' 'promotes']",[0.         0.         0.02496684 ... 0.         0.         0.        ],40,3,6,True,knows,understands
+66,"['<UNK>' 'the' ',' 'to' 'of' 'and' 'a' 'in' '""' 'that' 'is' 'as' 'not'
+ '--' 'this' 'more' 'or' 'about' ':' 'all' 'no' 'only' 'just' 'any' 'your'
+ 'public' 'both' '...' 'less']",[0.         0.         0.03450046 ... 0.         0.         0.        ],29,3,7,True,about,neither
+67,,,0,3,8,False,taxation,taxation
+68,"[',' 'of' 'and' 'in' 'for' 'as' 'at' 'or']",[0. 0. 0. ... 0. 0. 0.],8,3,9,True,for,nor
+69,,,0,3,10,False,women,women
+70,"['<UNK>' 'the' ',' 'to' 'of' 'and' 'in' '""' ""'s"" 'for' 'on' 'by' '(' 'or'
+ ':' 'people' '-' ""'"" '/' 'health' 'living']",[0.         0.         0.04754288 ... 0.         0.         0.        ],21,3,11,True,(,is
+71,,,0,3,12,False,health,health
+72,"['<UNK>' 'to' 'of' 'and' 'in' '""' ""'s"" 'for' 'at' 'by' '(' 'or']",[0.         0.         0.08344957 ... 0.         0.         0.        ],12,3,13,True,"""",.
+73,['How' 'Who'],[0. 0. 0. ... 0. 0. 0.],2,4,0,True,How,What
+74,,,0,4,1,False,on,on
+75,"['""' 'earth' 'hell']",[0. 0. 0. ... 0. 0. 0.],3,4,2,True,hell,Earth
+76,"[',' 'of' ""'s"" 'was' 'it' 'be' 'are' 'not' 'been' 'you' 'like' 'do' 'says'
+ 'think' 'does' 'really' 'Is' 'exactly']",[0. 0. 0. ... 0. 0. 0.],18,4,3,True,are,is
+77,,,0,4,4,False,that,that
+78,,,0,4,5,False,about,about
+79,"['<UNK>' ',' '.' '""' '(' '--' ':' '-' ""'"" '...']",[0.         0.         0.09987065 ... 0.         0.         0.        ],10,4,6,True,',?
+80,,,0,4,7,False,Is,Is
+81,,,0,4,8,False,it,it
+82,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'a' 'in' '""' ""'s"" 'that' 'for' 'on'
+ 'is' 'it' 'but' 'this' 'more' 'or' 'up' 'one' 'also' 'out' 'her' 'you'
+ 'all' ""'"" 'other' 'there' '?' 'time' 'some' 'so' 'just' 'him' 'like'
+ 'now' 'Obama' 'where' 'any' 'how' 'much' 'me' 'China' '...' 'life'
+ 'likely' 'America' 'really' 'something' 'done' 'evidence' 'doing'
+ 'nothing' 'anything' 'someone' 'anyone' 'actually' 'politics' 'exactly'
+ 'anybody']",[0.        0.        0.0161373 ... 0.        0.        0.       ],62,4,9,True,a,what
+83,"['<UNK>' ',' 'and' '""' ""'s"" 'was' 'it' 'are' 'they' 'you' 'all' 'could'
+ 'might' 'really' 'things']",[0.         0.         0.06657016 ... 0.         0.         0.        ],15,4,10,True,really,is
+84,"['<UNK>' ',' 'to' 'of' 'and' '""' 'on' 'is' 'as' 'it' 'not' 'been' 'more'
+ 'or' 'about' 'up' 'one' 'out' 'you' ""'"" 'only' 'just' 'like' 'set' 'good'
+ 'used' 'expected' '...' 'best' 'better' 'likely' 'really' 'working'
+ 'trying' 'important' 'possible' 'thought' 'looking' 'done' 'needed'
+ 'doing' 'wanted' 'sure' 'probably' 'certain' 'mean' 'helping' 'necessary'
+ 'meant' 'threatened' 'intended' 'supposed' 'nice' 'threatening' 'useful']",[0.         0.         0.01818358 ... 0.         0.         0.        ],55,4,11,True,just,going
+85,,,0,4,12,False,to,to
+86,,,0,4,13,False,get,get
+87,,,0,4,14,False,him,him
+88,"['<UNK>' ',' '.' 'and' 'in' '""' ""'s"" 'that' 'for' 'is' 'it' '(' '--'
+ 'this' 'more' 'up' 'you' '-' ""'"" '?' 'so' 'do' '...' '!']",[0.         0.         0.04157354 ... 0.         0.         0.        ],24,4,15,True,'s,fired
+89,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'in' '""' 'is' 'it' 'by' '(' '--'
+ 'but' 'this' 'or' ':' 'you' 'when' '-' '?' 'if' 'just' 'now' ';' '...'
+ '..']",[0.         0.         0.03562116 ... 0.         0.         0.        ],28,4,16,True,this,eventually
+90,,,0,4,17,False,?,?
+91,,,0,5,0,False,This,This
+92,"['<UNK>' ',' 'to' 'of' 'and' 'in' '""' ""'s"" 'that' 'on' 'was' 'said' 'from'
+ 'has' 'are' 'had' '--' 'also' 'set' 'place' 'change' 'question' 'remains'
+ 'included' 'followed' 'includes' 'practice' 'provides' 'requires'
+ 'follows' 'involves' 'reflects' 'applies']",[0.         0.         0.03027489 ... 0.         0.         0.        ],33,5,1,True,of,is
+93,"['<UNK>' 'the' ',' 'to' 'of' 'and' 'in' '""' 'that' 'The' 'his' 'an'
+ 'their' 'this' 'its' 'one' 'her' 'new' 'some' 'no' 'only' 'our' 'very'
+ 'another' 'different' 'clear' 'important' 'simple']",[0.         0.         0.03549311 ... 0.         0.         0.        ],28,5,2,True,this,a
+94,"['<UNK>' ',' '""' 'one' 'world' 'way' 'work' 'state' 'part' 'set' 'right'
+ 'place' 'case' 'system' 'power' 'change' 'law' 'point' 'statement'
+ 'record' 'decision' 'side' 'issue' 'lot' 'line' 'policy' 'study'
+ 'problem' 'period' 'history' 'role' 'bill' 'process' 'goal' 'book'
+ 'question' 'position' 'kind' 'field' 'matter' 'test' 'bit' 'term' 'sense'
+ 'view' 'review' 'condition' 'challenge' 'product' 'source' 'paper' 'rule'
+ 'practice' 'measure' 'subject' 'model' 'word' 'culture' 'sort' 'piece'
+ 'brand' 'standard' 'type' 'discussion' 'combination' 'vision' 'tradition'
+ 'concept' 'topic']",[0.         0.         0.01448891 ... 0.         0.         0.        ],69,5,3,True,study,doctrine
+95,,,0,5,4,False,of,of
+96,"['<UNK>' 'the' ',' 'to' 'of' 'and' 'a' 'in' '""' 'that' 'The' 'his' 'an'
+ 'their' 'this' 'its' 'one' 'her' 'last' 'first' ""'"" 'new' 'some' 'no'
+ 'only' 'government' 'U.S.' 'any' 'such' 'state' 'public' 'American'
+ 'another' 'military' 'political' 'British' 'law' 'national'
+ 'international' 'European' 'federal' 'different' 'clear' 'policy' 'old'
+ 'general' 'strong' 'legal' 'medical' 'social' 'personal' 'common'
+ 'Western' 'limited' 'Islamic' 'conservative' 'religious' 'modern'
+ 'simple' 'science' 'Christian' 'basic' 'historic' 'cultural' 'liberal'
+ 'parliamentary' 'broad' 'scientific' 'historical' 'ancient' 'moral'
+ 'democratic' 'narrow' 'fundamental' 'principle' 'strict' 'intellectual'
+ 'universal' 'ethical' 'ideological' 'biblical']",[0.         0.         0.01238899 ... 0.         0.         0.        ],81,5,5,True,The,constitutional
+97,,,0,5,6,False,interpretation,interpretation
+98,,,0,5,7,False,that,that
+99,,,0,5,8,False,says,says
+100,,,0,5,9,False,that,that
+101,,,0,5,10,False,a,a
+102,"['<UNK>' ',' '""' 'one' ""'"" 'company' 'life' 'case' 'system' 'deal'
+ 'campaign' 'change' 'plan' 'law' 'statement' 'decision' 'call' 'line'
+ 'policy' 'name' 'process' 'result' 'book' 'question' 'list' 'form'
+ 'search' 'claim' 'speech' 'product' 'choice' 'measure' 'written'
+ 'movement' 'word' 'piece' 'document' 'gift' 'declaration']",[0.         0.         0.02566285 ... 0.         0.         0.        ],39,5,11,True,policy,constitution
+103,"['the' ',' 'to' 'of' 'and' 'a' 'in' '""' ""'s"" 'for' 'on' 'was' 'as' 'from'
+ 'are' 'not' '--' 'but' 'or' ':' 'also' 'so' 'only' 'just' 'being' 'even'
+ 'called' 'always' 'means' 'remains' 'simply' 'usually' 'clearly' 'merely'
+ 'solely' 'explicitly']",[0. 0. 0. ... 0. 0. 0.],36,5,12,True,even,is
+104,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'a' 'in' '""' 'that' 'not' '(' 'one'
+ 'also' 'out' 'first' ""'"" 'new' 'only' 'now' 'made' 'well' 'good' 'used'
+ 'right' 'best' 'likely' 'law' 'enough' 'often' 'free' 'different' 'clear'
+ 'important' 'possible' 'available' 'needed' 'legal' 'wrong' 'true'
+ 'subject' 'written' 'illegal' 'limited' 'necessary' 'effective' 'clearly'
+ 'simple' 'fair' 'easily' 'appropriate' 'essential' 'reasonable'
+ 'relevant' 'defined' 'voluntary' 'legitimate' 'acceptable' 'Constitution'
+ 'unnecessary' 'valid' 'flawed' 'vague' 'interpreted' 'incomplete'
+ 'meaningless' 'ambiguous']",[0.        0.        0.0147022 ... 0.        0.        0.       ],68,5,13,True,and,organic
+105,,,0,5,14,False,and,and
+106,,,0,5,15,False,must,must
+107,,,0,5,16,False,be,be
+108,"['<UNK>' 'the' ',' '.' 'to' 'and' 'a' 'in' '""' 'that' 'for' 'on' 'with'
+ 'said' 'as' 'by' 'not' 'more' 'about' 'up' 'one' 'all' ""'"" 'so' 'only'
+ 'made' 'both' 'set' 'used' 'taken' 'law' 'given' 'available' 'done'
+ 'designed' 'changed' 'subject' 'written' 'treated' 'removed' 'adopted'
+ 'applied' 'addressed' 'defined' 'structured' 'interpreted']",[0.         0.         0.02174876 ... 0.         0.         0.        ],46,5,17,True,done,read
+109,,,0,5,18,False,in,in
+110,,,0,5,19,False,a,a
+111,,,0,5,20,False,broad,broad
+112,,,0,5,21,False,and,and
+113,"['<UNK>' ',' 'of' 'and' 'a' 'in' '""' 'new' 'public' 'political'
+ 'different' 'clear' 'legal' 'serious' 'personal' 'easy' 'positive'
+ 'limited' 'effective' 'direct' 'modern' 'professional' 'simple' 'fair'
+ 'secure' 'specific' 'healthy' 'competitive' 'unique' 'forward-looking'
+ 'formal' 'appropriate' 'comfortable' 'comprehensive' 'equal' 'friendly'
+ 'proper' 'warm' 'moral' 'creative' 'reasonable' 'efficient' 'relevant'
+ 'peaceful' 'consistent' 'innovative' 'honest' 'sustainable' 'defined'
+ 'careful' 'accurate' 'practical' 'measured' 'acceptable' 'uniform'
+ 'flexible' 'accessible' 'plain' 'objective' 'balanced' 'realistic'
+ 'meaningful' 'relaxed' 'precise' 'neutral' 'transparent' 'sensible'
+ 'timely' 'intimate' 'subtle' 'informal' 'straightforward' 'deliberate'
+ 'convenient' 'predictable' 'rational' 'constructive' 'logical' 'gradual'
+ 'thoughtful' 'tailored' 'compassionate' 'inclusive' 'abstract'
+ 'pragmatic' 'benign' 'sober' 'orderly' 'respectful' 'personalized'
+ 'humane' 'streamlined' 'impartial' 'dignified' 'literal' 'consensual'
+ 'equitable' 'proportionate' 'civilised' 'holistic' 'personalised'
+ 'harmonious' 'concise' 'businesslike' 'descriptive' 'expeditious'
+ 'non-threatening' 'business-like' 'easy-to-understand' 'non-judgmental'
+ 'nondiscriminatory']",[0.         0.         0.00902751 ... 0.         0.         0.        ],111,5,22,True,straightforward,liberal
+114,"['<UNK>' ',' '.' 'and' '""' '(' 'but' 'one' 'government' 'world' 'way'
+ 'public' 'system' 'law' 'media' 'line' 'order' 'form' 'terms' 'ways'
+ 'society' 'culture' 'language' 'style']",[0.         0.         0.04168134 ... 0.         0.         0.        ],24,5,23,True,one,manner
+115,"[',' 'and' '""' '--' 'but' 'or' 'rather']",[0. 0. 0. ... 0. 0. 0.],7,5,24,True,"""",so
+116,,,0,5,25,False,as,as
+117,"[',' 'and' '""' 'that' 'not' 'or' 'also' 'only']",[0. 0. 0. ... 0. 0. 0.],8,5,26,True,or,to
+118,,,0,5,27,False,adapt,adapt
+119,"['<UNK>' 'the' ',' 'to' 'and' 'in' '""' 'that' 'for' 'on' 'at' 'not' '--'
+ 'this' 'more' 'or' 'people' 'over' 'them' 'only' 'through' 'your' 'both'
+ 'things' 'quickly' 'itself' 'ideas' 'rapidly' 'accordingly']",[0.         0.         0.03446085 ... 0.         0.         0.        ],29,5,28,True,--,it
+120,"['the' ',' 'of' 'and' 'in' '""' ""'s"" 'for' 'on' 'is' 'with' 'as' 'at' 'by'
+ 'from' 'not' '(' '--' 'but' 'more' 'or' ':' 'when' '-' 'all' 'into'
+ 'only' 'before' 'like' 'now' 'through' 'toward' 'towards']",[0. 0. 0. ... 0. 0. 0.],33,5,29,True,in,to
+121,,,0,5,30,False,changing,changing
+122,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' '""' 'or']",[0.         0.         0.11114091 ... 0.         0.         0.        ],9,5,31,True,and,times
+123,"['to' 'of' 'and' 'in' '""' 'for' 'at' 'by' 'from' '(' 'or' 'after' 'if'
+ 'before']",[0. 0. 0. ... 0. 0. 0.],14,5,32,True,(,.
+124,,,0,6,0,False,In,In
+125,,,0,6,1,False,the,the
+126,"['<UNK>' 'the' ',' '""' 'year' 'first' 'other' 'years' 'time' 'U.S.' 'most'
+ 'week' 'world' 'company' 'country' 'state' 'day' 'public' 'group' '10'
+ 'months' 'month' 'report' 'days' 'game' 'business' 'show' 'States' 'case'
+ 'past' '2008' 'House' '2009' 'court' 'London' 'Washington' 'area' '2007'
+ 'City' 'UK' 'West' '2006' 'media' 'study' 'period' 'film' 'course' 'name'
+ 'general' 'region' 'process' 'online' 'age' 'cases' 'video' 'space'
+ 'view' 'speech' 'article' 'decades' 'words' 'survey' 'present' 'opinion'
+ '1970s' 'Netherlands' 'context']",[0.         0.         0.01494162 ... 0.         0.         0.        ],67,6,2,True,2006,2000s
+127,,,0,6,3,False,",",","
+128,,,0,6,4,False,music,music
+129,,,0,6,5,False,notation,notation
+130,,,0,6,6,False,typically,typically
+131,"['<UNK>' 'the' ',' 'of' 'and' 'in' '""' ""'s"" 'for' 'on' 'is' 'was' 'with'
+ 'by' 'from' 'has' 'are' 'had' '--' 'also' 'only' 'just' 'made' 'found'
+ 'set' 'reported' 'used' 'put' 'does' 'become' 'cut' 'released' 'received'
+ 'involved' 'saw' 'makes' 'allowed' 'shows' 'included' 'changes'
+ 'includes' 'dropped' 'created' 'provided' 'offers' 'changed' 'produced'
+ 'identified' 'provides' 'placed' 'features' 'introduced' 'suggests'
+ 'allows' 'increases' 'recorded' 'matches' 'replaced' 'banned' 'uses'
+ 'holds' 'requires' 'contained' 'marks' 'puts' 'finds' 'carries'
+ 'contains' 'covers' 'involves' 'defined' 'describes' 'avoided' 'promoted'
+ 'creates' 'affects' 'reads' 'reduces' 'encourages' 'favors' 'improves'
+ 'replaces' 'prohibits' 'defines' 'triggers' 'avoids']",[0.         0.         0.01162285 ... 0.         0.         0.        ],86,6,7,True,only,means
+132,,,0,6,8,False,the,the
+133,,,0,6,9,False,written,written
+134,,,0,6,10,False,expression,expression
+135,,,0,6,11,False,of,of
+136,,,0,6,12,False,music,music
+137,,,0,6,13,False,notes,notes
+138,,,0,6,14,False,and,and
+139,,,0,6,15,False,rhythms,rhythms
+140,,,0,6,16,False,on,on
+141,,,0,6,17,False,paper,paper
+142,,,0,6,18,False,using,using
+143,,,0,6,19,False,symbols,symbols
+144,"['<UNK>' 'to' 'of' 'and' 'in' '""' 'for' 'at' 'by' 'from' '(' 'or' ""'""
+ 'just' 'before' 'held']",[0.         0.         0.06194966 ... 0.         0.         0.        ],16,6,20,True,from,.
+145,"['<UNK>' ',' '""' 'that' '--' ""'"" 'This' 'One' 'Some' 'All' 'Many' 'More'
+ 'English' 'Think']",[0.         0.         0.07145657 ... 0.         0.         0.        ],14,7,0,True,",",Most
+146,"['<UNK>' ',' 'to' 'and' 'in' '""' 'that' 'on' 'said' 'from' 'like' 'now'
+ 'say' 'even' 'times']",[0.         0.         0.06665597 ... 0.         0.         0.        ],15,7,1,True,now,of
+147,,,0,7,2,False,the,the
+148,,,0,7,3,False,mathematical,mathematical
+149,,,0,7,4,False,notation,notation
+150,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'a' '""' ""'s"" 'that' 'for' 'on' 'is'
+ 'with' 'as' 'at' 'it' 'by' 'from' 'he' 'not' '(' 'will' 'who' 'I' '--'
+ 'they' 'but' 'this' 'which' 'or' 'would' 'you' 'when' 'people' '-' 'can'
+ 'we' 'could' 'so' 'now' 'may' 'should' 'still' 'might' 'technology'
+ 'actually' 'currently']",[0.         0.         0.02036571 ... 0.         0.         0.        ],49,7,5,True,at,in
+151,,,0,7,6,False,use,use
+152,,,0,7,7,False,today,today
+153,,,0,7,8,False,was,was
+154,,,0,7,9,False,not,not
+155,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'in' '""' 'that' 'for' 'on' 'said'
+ 'it' 'from' 'not' '--' 'been' 'this' 'more' 'or' 'about' 'up' 'one' 'out'
+ 'all' 'over' 'first' ""'"" 'there' 'so' 'only' 'before' 'made' 'through'
+ 'even' 'well' 'found' 'going' 'used' 'long' 'right' 'until' 'change'
+ 'held' 'seen' 'working' 'known' 'thought' 'available' 'done' 'published'
+ 'anything' 'heard' 'popular' 'believed' 'considered' 'read' 'built'
+ 'English' 'true' 'changed' 'subject' 'written' 'developed' 'born'
+ 'discovered' 'sound' 'science' 'established' 'accepted' 'advanced'
+ 'understood' 'controlled' 'studied']",[0.         0.         0.01337415 ... 0.         0.         0.        ],75,7,10,True,built,invented
+156,,,0,7,11,False,until,until
+157,"['<UNK>' ',' 'of' 'and' 'a' 'in' 'that' 'The' 'as' 'this' 'early' 'late']",[0.         0.         0.08327613 ... 0.         0.         0.        ],12,7,12,True,this,the
+158,,,0,7,13,False,16th,16th
+159,,,0,7,14,False,century,century
+160,"[',' 'and' '""' '(' '--' ':' '-' ';' '...']",[0. 0. 0. ... 0. 0. 0.],9,7,15,True,--,.
+161,"['""' '•']",[0. 0. 0. ... 0. 0. 0.],2,7,16,True,"""",[
+162,"['<S>' '<UNK>' ',' '.' 'to' 'and' 'a' '""' ')' '(' 'I' ':' '-' 'A' '?' '/'
+ '10' '%' '...' '1' '2008' '!' '2' '2007' 'One' '12' '11' '15' '3' '5' '4'
+ '16' '7' '13' '8' '6' '2005' '9' '17' '[' ']' '2000' '_' '+' 'R' '*' 'D'
+ '•' '=' 'T' 'C' '@' 'i' 'etc' 'd' '>' '0' 'c' 'b' 'p' '<' 'laughter' '07'
+ 'laughs' 'e' 'ii' 'PDF' '\\' 'DEL' 'ed' 'pdf' 'Laughs' 'dot.gif' 'q'
+ 'EMBED' 'allbusiness.com']",[0.         0.01311631 0.01401119 ... 0.         0.         0.        ],76,7,17,True,12,52
+163,,,0,7,18,False,],]
+164,,,0,7,19,False,Before,Before
+165,,,0,7,20,False,that,that
+166,,,0,7,21,False,",",","
+167,"['<UNK>' 'the' ',' 'to' 'of' 'and' 'a' 'in' '""' 'that' 'for' 'on' 'with'
+ 'as' 'it' 'have' 'he' 'I' 'they' 'but' 'this' 'which' 'or' 'one' 'people'
+ 'all' 'first' ""'"" 'she' 'other' 'there' 'time' 'what' 'most' 'says' 'say'
+ 'much' '10' 'think' 'use' '...' 'half' 'something' 'things' 'thought'
+ 'history' 'research' 'data' 'nothing' 'anything' 'everything' 'words'
+ 'word' 'science' 'reading' 'writing' 'text']",[0.         0.         0.01754056 ... 0.         0.         0.        ],57,7,22,True,writing,mathematics
+168,,,0,7,23,False,was,was
+169,,,0,7,24,False,written,written
+170,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'a' '""' 'that' 'with' 'as' 'it'
+ 'not' '(' '--' 'but' 'this' 'more' 'or' 'about' ':' 'up' 'when' '-' 'all'
+ 'first' ""'"" 'if' 'so' 'only' 'just' 'most' 'like' 'because' ';' 'off'
+ 'down' 'while' 'even' 'much' 'both' 'used' '...' 'almost' 'using'
+ 'simply' 'mostly' 'mainly' 'differently' 'purely']",[0.         0.         0.01958751 ... 0.         0.         0.        ],51,7,25,True,and,out
+171,,,0,7,26,False,in,in
+172,,,0,7,27,False,words,words
+173,,,0,7,28,False,",",","
+174,,,0,7,29,False,limiting,limiting
+175,,,0,7,30,False,mathematical,mathematical
+176,"['<UNK>' ',' '.' 'to' 'and' 'or' 'use']",[0.         0.         0.14295039 ... 0.         0.         0.        ],7,7,31,True,",",discovery
+177,,,0,7,32,False,.,.
+178,,,0,8,0,False,Physical,Physical
+179,,,0,8,1,False,geography,geography
+180,"['<UNK>' ',' 'to' 'and' 'in' '""' 'that' 'for' 'on' 'is' '--' 'you' '-'
+ 'used' 'results' 'study' 'problems' 'students' 'comes' 'issues' 'helped'
+ 'works' 'continues' 'studies' 'combined' 'expert' 'helps' 'links' 'fits'
+ 'correlates']",[0.         0.         0.03330062 ... 0.         0.         0.        ],30,8,2,True,-,deals
+181,,,0,8,3,False,with,with
+182,,,0,8,4,False,the,the
+183,,,0,8,5,False,study,study
+184,"['<UNK>' 'the' ',' '.' 'to' 'and' 'in' '""' ""'s"" 'that' 'for' 'on' 'is'
+ 'with' 'said' 'as' 'at' 'by' 'from' '--' 'but' 'more' 'or' 'about' ':'
+ '-' 'over' 'into' ""'"" 'like' ';' 'through' 'found' 'data' 'process'
+ 'subject' 'finding']",[0.         0.         0.02691955 ... 0.         0.         0.        ],37,8,6,True,like,of
+185,,,0,8,7,False,processes,processes
+186,"['<UNK>' 'the' ',' '.' 'to' 'of' 'in' '""' 'for' 'on' 'with' 'as' 'at' 'by'
+ 'from' '--' 'but' 'or' 'about' ':' 'when' '-' 'all' 'over' 'into' 'like'
+ 'such' 'including' 'found' 'set' 'using' 'affecting' 'occurring']",[0.         0.         0.03026002 ... 0.         0.         0.        ],33,8,8,True,but,and
+187,"['<UNK>' ',' 'to' 'and' 'in' '""' 'that' 'for' 'on' 'is' 'as' 'it' 'are'
+ 'not' 'people' 'other' 'time' 'those' 'even' 'work' 'found' 'health'
+ 'life' 'points' 'information' 'power' 'times' 'services' 'things'
+ 'results' 'different' 'energy' 'possible' 'problems' 'risk' 'groups'
+ 'data' 'issues' 'areas' 'technology' 'products' 'needs' 'performance'
+ 'changes' 'conditions' 'questions' 'concerns' 'terms' 'events' 'common'
+ 'details' 'benefits' 'ways' 'sites' 'words' 'natural' 'projects'
+ 'systems' 'signs' 'activity' 'places' 'environment' 'emissions' 'risks'
+ 'activities' 'resources' 'decisions' 'bodies' 'effects' 'environmental'
+ 'material' 'features' 'options' 'views' 'plants' 'interests' 'nature'
+ 'factors' 'animals' 'images' 'challenges' 'opportunities' 'applications'
+ 'ideas' 'devices' 'associated' 'solutions' 'uses' 'changing'
+ 'circumstances' 'properties' 'matters' 'threats' 'stress' 'materials'
+ 'communications' 'behavior' 'regulations' 'causes' 'behaviour'
+ 'differences' 'types' 'consequences' 'acts' 'forms' 'technologies'
+ 'elements' 'relationships' 'diseases' 'communication' 'experiences'
+ 'developments' 'trends' 'aspects' 'connections' 'movements' 'situations'
+ 'chemicals' 'components' 'objects' 'structures' 'processes' 'functions'
+ 'topics' 'emotions' 'colors' 'reactions' 'clues' 'settings' 'substances'
+ 'impacts' 'environments' 'characteristics' 'variations' 'interaction'
+ 'observations' 'insights' 'innovations' 'influences' 'surfaces'
+ 'fluctuations' 'discoveries' 'concepts' 'preferences' 'dynamics' 'traits'
+ 'behaviors' 'stresses' 'molecules' 'interactions' 'organisms'
+ 'parameters' 'variables' 'phenomena' 'pathogens' 'anomalies']",[0.         0.         0.00642028 ... 0.         0.         0.        ],156,8,9,True,material,patterns
+188,"['the' ',' '.' 'to' 'of' 'and' '""' 'for' 'on' 'with' 'as' 'at' 'by' 'from'
+ '--' 'but' 'or' 'about' ':' 'over' 'like' 'through' 'including' 'during'
+ 'around' '...' 'across' 'within' 'using' 'throughout' 'involving'
+ 'surrounding' 'regarding' 'affecting']",[0. 0. 0. ... 0. 0. 0.],34,8,10,True,including,in
+189,,,0,8,11,False,the,the
+190,,,0,8,12,False,natural,natural
+191,"['<UNK>' ',' 'and' '""' 'world' 'life' 'area' 'media' 'areas' 'conditions'
+ 'events' 'climate' 'systems' 'activity' 'activities' 'resources'
+ 'species' 'properties' 'materials' 'regions' 'patterns' 'structures'
+ 'processes' 'worlds' 'settings' 'environments' 'interaction' 'mechanisms'
+ 'interactions' 'ecosystems' 'phenomena' 'pathways' 'world.' 'cosmos']",[0.         0.         0.02945116 ... 0.         0.         0.        ],34,8,13,True,settings,environment
+192,,,0,8,14,False,like,like
+193,,,0,8,15,False,the,the
+194,,,0,8,16,False,atmosphere,atmosphere
+195,"['the' '.' 'to' 'of' 'and' 'a' 'in' '""' ""'s"" 'for' 'on' 'is' 'with' 'as'
+ 'at' 'by' 'from' '(' '--' 'or' 'about' ':' '-' '?' 'like' ';' '/'
+ 'through' 'between' '...' 'via']",[0. 0. 0. ... 0. 0. 0.],31,8,17,True,and,","
+196,"['<UNK>' 'family' 'health' 'life' 'power' 'water' 'food' 'energy'
+ 'history' 'nuclear' 'data' 'body' 'race' 'music' 'gas' 'human' 'air'
+ 'social' 'field' 'road' 'space' 'heart' 'ground' 'climate' 'light' 'land'
+ 'natural' 'plant' 'environment' 'weather' 'radio' 'culture' 'industrial'
+ 'environmental' 'sea' 'storm' 'language' 'brain' 'wind' 'nature' 'mass'
+ 'physical' 'animals' 'electricity' 'rock' 'animal' 'fish' 'Earth' 'heat'
+ 'transport' 'pool' 'structure' 'surface' 'satellite' 'river' 'solar'
+ 'distance' 'tree' 'sun' 'atmosphere' 'transportation' 'chemical'
+ 'communication' 'soil' 'earth' 'color' 'landscape' 'swimming'
+ 'temperature' 'forest' 'ocean' 'moon' 'sky' 'noise' 'wildlife'
+ 'electrical' 'dust' 'aviation' 'cloud' 'marine' 'lake' 'radiation'
+ 'forests' 'rivers' 'clouds' 'navigation' 'maritime' 'biology' 'magnetic'
+ 'sunlight' 'oceans' 'cellular' 'geography' 'geological' 'forestry'
+ 'ecology' 'planetary' 'geology' 'flora' 'meteorological' 'topography']",[0.         0.         0.00989992 ... 0.         0.         0.        ],101,8,18,True,power,hydrosphere
+197,['<UNK>' 'of' 'and' 'in' '(' '--' 'or' '/'],[0.        0.        0.1246177 ... 0.        0.        0.       ],8,8,19,True,and,","
+198,"['<UNK>' 'the' ',' 'a' 'other' 'life' 'system' 'power' 'water' 'food'
+ 'energy' 'data' 'race' 'gas' 'human' 'air' 'social' 'field' 'road'
+ 'space' 'ground' 'property' 'travel' 'light' 'land' 'flight'
+ 'environment' 'weather' 'radio' 'culture' 'aircraft' 'sea' 'buildings'
+ 'wind' 'nature' 'mass' 'transport' 'pool' 'structure' 'communications'
+ 'surface' 'flow' 'distribution' 'sun' 'transportation' 'communication'
+ 'ocean' 'moon' 'electronics' 'noise' 'dust' 'aviation' 'cloud' 'marine'
+ 'telecommunications' 'navigation' 'cellular']",[0.         0.         0.01759657 ... 0.         0.         0.        ],57,8,20,True,food,biosphere
+199,,,0,8,21,False,",",","
+200,,,0,8,22,False,and,and
+201,"['<UNK>' 'the' ',' 'to' 'of' 'and' '""']",[0.         0.         0.14333708 ... 0.         0.         0.        ],7,8,23,True,",",geosphere
+202,,,0,8,24,False,.,.
+203,"['<UNK>' 'the' ',' 'a' '""' ""'s"" 'that' 'The' ""'"" 'A' 'This' 'His' 'My'
+ 'Her' 'Their' 'Your']",[0.         0.         0.06242085 ... 0.         0.         0.        ],16,9,0,True,that,An
+204,"['<UNK>' 'the' ',' '""' 'other' 'information' 'action' 'order' 'event'
+ 'article' 'account' 'English' 'individual' 'answer' 'advertising' 'image'
+ 'opinion' 'author' 'e-mail' 'application' 'artist' 'ad' 'assessment'
+ 'email' 'advertisement']",[0.         0.         0.04001008 ... 0.         0.         0.        ],25,9,1,True,order,autobiography
+205,"[',' 'and' '""' ""'s"" 'was' 'as' 'it' 'have' 'has' '(' 'been' 'or' 'also'
+ '-' 'being' 'claims' 'written' 'apparently' 'allegedly' 'purportedly']",[0. 0. 0. ... 0. 0. 0.],20,9,2,True,(,is
+206,,,0,9,3,False,written,written
+207,,,0,9,4,False,by,by
+208,"['<UNK>' ',' 'and' 'a' '""' ""'s"" 'that' 'his' 'an' 'their' 'this' 'its'
+ 'one' 'her' 'two' 'other' 'some' 'your' 'another' 'each' 'young']",[0.         0.         0.04727084 ... 0.         0.         0.        ],21,9,5,True,their,the
+209,,,0,9,6,False,person,person
+210,,,0,9,7,False,himself,himself
+211,,,0,9,8,False,or,or
+212,,,0,9,9,False,herself,herself
+213,,,0,9,10,False,",",","
+214,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'a' 'in' '""' ""'s"" 'that' 'for' 'on'
+ 'is' 'as' 'it' 'by' 'not' 'they' 'but' 'this' 'or' 'one' 'also' 'her'
+ 'you' 'two' 'people' ""'"" 'if' 'so' 'only' 'made' 'through' 'even' 'then'
+ 'part' 'another' 'used' 'taken' 'given' 'working' 'something' 'often'
+ 'played' 'published' 'playing' 'either' 'someone' 'simply' 'read'
+ 'provided' 'perhaps' 'written' 'usually' 'speaking' 'writing' 'possibly'
+ 'except' 'chosen']",[0.         0.         0.01638321 ... 0.         0.         0.        ],61,9,11,True,"""",sometimes
+215,,,0,9,12,False,with,with
+216,,,0,9,13,False,the,the
+217,"['""' 'company' 'work' 'help' 'use' 'support' 'information' 'death' 'face'
+ 'interest' 'name' 'child' 'goal' 'means' 'hand' 'personal' 'terms' 'sign'
+ 'title' 'term' 'details' 'friend' 'hands' 'words' 'comments' 'choice'
+ 'benefit' 'partner' 'names' 'word' 'request' 'presence' 'material'
+ 'influence' 'image' 'advice' 'approval' 'eyes' 'interests' 'eye' 'agent'
+ 'knowledge' 'involvement' 'purpose' 'permission' 'gift' 'guidance'
+ 'intent' 'thoughts' 'intention' 'signature' 'suggestion' 'expression'
+ 'description' 'consent' 'invitation' 'spouse' 'characteristic' 'initials']",[0. 0. 0. ... 0. 0. 0.],59,9,14,True,benefit,assistance
+218,['and' 'that' 'from' 'or'],[0. 0. 0. ... 0. 0. 0.],4,9,15,True,or,of
+219,,,0,9,16,False,a,a
+220,,,0,9,17,False,collaborator,collaborator
+221,,,0,9,18,False,or,or
+222,"['<UNK>' 'the' ',' 'to' 'of' 'and' '""' ""'s"" 'for' 'is' 'at' 'by' '(' '--'
+ 'or']",[0.         0.         0.06662847 ... 0.         0.         0.        ],15,9,19,True,the,ghostwriter
+223,,,0,9,20,False,.,.
+224,"['<UNK>' 'the' ',' 'a' '""' ""'s"" 'that' 'The' '(' 'I' '--' 'But' ""'"" 'We'
+ 'And' 'They' 'So' 'To' 'Not' 'Just' 'Your' 'Oh' 'Parents']",[0.         0.         0.04345575 ... 0.         0.         0.        ],23,10,0,True,Parents,You
+225,"['<UNK>' ',' 'and' '""' 'said' 'be' 'have' 'are' 'not' 'will' '--' 'or'
+ 'also' ""'t"" 'can' 'no' 'only' 'just' 'like' 'do' 'get' 'even' 'may'
+ 'should' 'did' 'take' 'see' 'use' 'need' ""'re"" 'want' 'know' 'hit'
+ 'become' 'find' ""'m"" 'asked' 'call' 'include' 'love' 'tell' 'mean' 'ask'
+ 'lose' 'suggest' 'mention' 'prefer' 'owe']",[0.         0.         0.02082277 ... 0.         0.         0.        ],48,10,1,True,may,fuck
+226,"['<UNK>' 'the' ',' 'to' 'of' 'and' 'a' 'in' '""' 'for' 'is' 'with' 'at'
+ 'by' 'from' 'his' 'are' 'their' '--' 'or' 'about' ':' 'her' 'you' '-' '?'
+ 'no' 'home' 'my' 'American' '...' 'old' 'kids' 'kid']",[0.         0.         0.02936882 ... 0.         0.         0.        ],34,10,2,True,old,your
+227,,,0,10,3,False,dad,dad
+228,"['<UNK>' 'to' 'of' 'and' 'in' '""' ""'s"" 'for' 'at' 'by' 'from' '(' 'or'
+ 'after' 'up' ""'"" 'if' 'just' 'before']",[0.         0.         0.05258102 ... 0.         0.         0.        ],19,10,4,True,',.
+229,"['<UNK>' ',' '""' ""'s"" 'that' '(' 'I' '--' ""'"" 'If' 'When' 'You' 'What'
+ 'Now' 'How' 'Once' 'Where' 'Oh']",[0.        0.        0.0555919 ... 0.        0.        0.       ],18,11,0,True,I,Yeah
+230,,,0,11,1,False,and,and
+231,"['<UNK>' ',' '.' 'to' 'of' 'and' 'a' 'in' '""' ""'s"" 'that' 'is' 'with' 'as'
+ 'at' 'it' 'by' 'who' 'I' '--' 'they' 'but' 'this' 'which' 'you' 'when'
+ 'can' 'first' ""'"" 'there' 'if' 'so' 'what' 'just' 'like' 'now' 'do' 'say'
+ 'how' 'way' 'then' 'well' 'good' 'same' 'think' 'me' '...' 'right' 'know'
+ '!' 'best' 'here' 'saying' 'things' 'old' 'let' 'wrong' 'talking' 'happy'
+ 'thinking' 'please' 'sorry' 'stupid']",[0.         0.         0.01592388 ... 0.         0.         0.        ],63,11,2,True,please,where
+232,,,0,11,3,False,are,are
+233,,,0,11,4,False,you,you
+234,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'in' '""' 'is' 'by' 'not' '--' 'but'
+ 'this' 'or' 'you' 'when' 'people' '-' ""'"" '?' 'if' 'just' 'being' '...'
+ 'really' 'saying' 'actually' 'concerned' '..']",[0.         0.         0.03224472 ... 0.         0.         0.        ],31,11,5,True,just,now
+235,,,0,11,6,False,?,?
+236,,,0,12,0,False,shut,shut
+237,,,0,12,1,False,the,the
+238,"['<UNK>' 'the' ',' 'and' '""' 'two' ""'"" 'other' 'back' 'way' 'end' 'show'
+ 'right' 'top' 'line' 'open' 'fire' 'book' 'stock' 'ground' 'eyes'
+ 'lights']",[0.         0.         0.04560827 ... 0.         0.         0.        ],22,12,2,True,stock,fuck
+239,,,0,12,3,False,up,up
+240,,,0,12,4,False,.,.
+241,,,0,12,5,False,you,you
+242,,,0,12,6,False,and,and
+243,,,0,12,7,False,the,the
+244,"['<UNK>' 'the' ',' '""' 'more' 'one' 'two' 'last' 'first' 'other' 'only'
+ 'most' 'three' 'many' 'group' 'good' 'few' 'best' 'couple']",[0.         0.         0.05263978 ... 0.         0.         0.        ],19,12,8,True,",",rest
+245,"['<UNK>' 'the' ',' '.' 'to' 'in' 'have' 'are' 'you' 'all' 'do' 'should'
+ '...']",[0.         0.         0.07691876 ... 0.         0.         0.        ],13,12,9,True,are,of
+246,,,0,12,10,False,your,your
+247,"['<UNK>' 'the' ',' 'and' '""' ""'"" 'other' 'new' 'time' 'U.S.' 'public' 'US'
+ 'American' 'business' 'family' 'top' 'high' 'political' 'school' 'big'
+ 'small' 'great' 'old' 'personal' 'household']",[0.         0.         0.04003555 ... 0.         0.         0.        ],25,12,11,True,old,faggot
+248,,,0,12,12,False,friends,friends
+249,,,0,12,13,False,should,should
+250,,,0,12,14,False,be,be
+251,,,0,12,15,False,burned,burned
+252,"['<UNK>' 'the' ',' 'to' 'of' 'and' 'in' '""' ""'s"" 'that' 'for' 'on' 'with'
+ 'as' 'by' 'from' '--' 'but' 'more' 'about' 'up' 'out' 'all' 'into' 'only'
+ 'just' 'before' 'against' 'off' 'down' 'around' 'behind' 'outside'
+ 'using']",[0.         0.         0.02926603 ... 0.         0.         0.        ],34,12,16,True,that,at
+253,,,0,12,17,False,the,the
+254,,,0,12,18,False,stake,stake
+255,,,0,13,0,False,you,you
+256,,,0,13,1,False,are,are
+257,,,0,13,2,False,a,a
+258,,,0,13,3,False,land,land
+259,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'a' 'in' '""' ""'s"" 'that' 'for' 'on'
+ 'is' 'with' 'by' 'not' 'or' 'up' 'one' 'out' 'you' 'people' 'over' ""'""
+ 'so' 'only' 'before' 'like' 'back' 'off' 'down' 'company' 'through'
+ 'country' 'well' 'your' 'man' 'use' '...' 'right' '!' 'best' 'away'
+ 'change' 'care' 'head' 'service' 'issue' 'line' 'open' 'control' 'name'
+ 'child' 'person' 'road' 'someone' 'property' 'hands' 'card' '*' 'airline'
+ 'dog' 'path' 'kid']",[0.         0.         0.01518487 ... 0.         0.         0.        ],66,13,4,True,open,creature
+260,"['<UNK>' ',' '""' '(' '--' ':' '-' '?' ';' '/' '...' '!']",[0.         0.         0.08316967 ... 0.         0.         0.        ],12,13,5,True,;,.
+261,,,0,13,6,False,You,You
+262,,,0,13,7,False,would,would
+263,"['<UNK>' ',' '.' 'and' 'in' '""' 'as' 'be' 'have' 'not' 'also' ""'t"" 'you'
+ 'all' 'no' 'only' 'just' 'most' 'now' 'do' 'say' 'even' 'much' 'work'
+ 'go' 'think' 'me' 'use' 'need' '...' 'come' 'want' 'know' 'never' 'pay'
+ 'play' 'care' 'really' 'look' 'always' 'talk' 'love' 'simply' 'mean'
+ 'ask' 'note' 'rarely' 'disagree']",[0.         0.         0.02079885 ... 0.         0.         0.        ],48,13,8,True,disagree,drown
+264,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' '""' 'for' 'at' 'by' '(' '--' 'but'
+ 'or' ':' '-' ""'"" '?' ';']",[0.         0.         0.04988313 ... 0.         0.         0.        ],20,13,9,True,:,...
+265,,,0,13,10,False,.,.
+266,,,0,14,0,False,But,But
+267,,,0,14,1,False,how,how
+268,,,0,14,2,False,would,would
+269,"['<UNK>' 'the' ',' 'a' '""' 'that' 'it' 'he' 'not' 'I' 'they' 'this' 'one'
+ 'people' 'we' 'she' 'even' 'your' 'children' 'companies' 'things'
+ 'parents' 'anything' 'someone' 'anyone' 'consumers']",[0.         0.         0.03833679 ... 0.         0.         0.        ],26,14,3,True,she,you
+270,"['<UNK>' ',' 'of' 'and' '""' 'as' 'not' 'all' '?' 'do' 'even' 'help' 'go'
+ 'really' 'ever' 'rather' 'possibly' 'please']",[0.         0.         0.05551305 ... 0.         0.         0.        ],18,14,4,True,<UNK>,actually
+271,"['<UNK>' ',' 'of' 'and' 'be' 'have' 'not' '?' 'like' 'do' 'make' 'say'
+ 'even' 'take' 'work' 'see' 'think' 'use' 'come' 'put' 'place' 'want'
+ 'know' 'win' 'pay' 'play' 'give' 'find' 'really' 'cut' 'keep' 'share'
+ 'look' 'call' 'try' 'feel' 'turn' 'hold' 'leave' 'let' 'break' 'pass'
+ 'read' 'mean' 'figure' 'avoid' 'act' 'carry' 'pick' 'check' 'remember'
+ 'pull' 'wear' 'guess' 'assume' 'suppose']",[0.         0.         0.01784055 ... 0.         0.         0.        ],56,14,5,True,want,get
+272,,,0,14,6,False,the,the
+273,,,0,14,7,False,key,key
+274,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'in' '""' ""'s"" 'is' 'was' 'said'
+ 'it' 'by' 'are' 'not' '(' '--' 'but' 'this' 'or' 'would' ':' 'you' 'when'
+ 'people' '-' '?' 'if' 'now' 'say' 'should' 'work' 'money' 'business'
+ '...' 'know' 'information' 'enough' 'service' 'things' 'action' 'thing'
+ 'stock' 'effect' 'message' 'benefit' 'link' 'item']",[0.        0.        0.0200048 ... 0.        0.        0.       ],50,14,8,True,benefit,out
+275,,,0,14,9,False,?,?
+276,,,0,15,0,False,fucking,fucking
+277,"['<S>' '<UNK>' ',' '.' 'and' '""' 'that' 'said' 'as' 'it' 'by' ')' 'not'
+ '(' '--' 'but' 'this' 'more' ':' 'up' 'people' '-' ""'"" '?' 'if' 'so'
+ 'because' ';' 'do' 'since' 'even' 'then' 'did' 'well' '...' '!' 'does'
+ 'something' 'things' 'thing' '*' '..' 'yes' '@' '....' '.....']",[0.         0.02168756 0.02170972 ... 0.         0.         0.        ],46,15,1,True,does,behave
+278,"['<UNK>' ',' 'to' 'of' 'and' 'in' '""' 'that' 'for' 'on' 'is' 'as' 'at'
+ 'it' 'not' '(' 'will' '--' 'but' 'would' ':' 'when' '-' 'can' ""'"" 'there'
+ '?' 'if' 'so' 'before' ';' 'should' '...' 'here' 'does' '*' '..']",[0.         0.         0.02700403 ... 0.         0.         0.        ],37,15,2,True,"""",then
+279,,,0,15,3,False,you,you
+280,,,0,15,4,False,prick,prick
+281,,,0,15,5,False,!,!
+282,,,0,16,0,False,You,You
+283,,,0,16,1,False,right,right
+284,"['<UNK>' ',' 'and' 'that' 'as' 'not' 'or' 'when' 'before' 'like' 'where'
+ 'say' 'how' 'think' 'until']",[0.         0.         0.06660741 ... 0.         0.         0.        ],15,16,2,True,like,if
+285,,,0,16,3,False,you,you
+286,,,0,16,4,False,are,are
+287,,,0,16,5,False,relaxe,relaxe
+288,,,0,16,6,False,then,then
+289,,,0,16,7,False,you,you
+290,"['<UNK>' ',' '.' 'to' 'and' '""' 'is' 'be' 'are' 'not' 'will' '--' 'or'
+ 'would' 'also' 'could' 'only' 'just' 'do' 'say' 'even' 'may' 'should'
+ 'then' 'help' 'might' 'never' 'better' 'must' 'really' 'often' 'always'
+ ""'ll"" ""'d"" 'probably' 'either' 'actually' 'cannot' 'simply' 'usually'
+ 'definitely']",[0.         0.         0.02426712 ... 0.         0.         0.        ],41,16,8,True,are,can
+291,"['<UNK>' ',' '.' 'to' 'and' 'in' '""' 'be' 'have' 'not' 'but' ""'t"" 'you'
+ 'no' 'only' 'even' 'always']",[0.         0.         0.05886778 ... 0.         0.         0.        ],17,16,9,True,you,give
+292,,,0,16,10,False,better,better
+293,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'in' '""' 'that' 'for' 'on' 'with'
+ 'at' 'it' '(' '--' 'or' ':' 'up' 'you' '-' '?' 'them' ';' 'back' 'off'
+ '/' 'company' 'way' 'work' 'help' 'good' 'money' 'use' '...' 'life'
+ 'support' '!' 'away' 'care' 'service' 'things' 'food' 'thought' 'jobs'
+ 'music' 'performance' 'lives' 'personal' 'education' 'talk' 'focus'
+ 'speech' 'product' 'sex' 'score' 'picture' 'advice' 'hair' 'fun' 'stuff'
+ 'sleep' 'tone' 'taste' 'thoughts' 'feelings']",[0.        0.        0.0149621 ... 0.        0.        0.       ],67,16,11,True,(,result
+294,,,0,16,12,False,or,or
+295,,,0,16,13,False,perform,perform
+296,,,0,16,14,False,and,and
+297,,,0,16,15,False,your,your
+298,,,0,16,16,False,identity,identity
+299,,,0,16,17,False,should,should
+300,"[',' 'and' '""' 'have' 'are' 'not' 'more' ""'t"" 'you' 'no' 'only' 'just'
+ 'do' 'get' 'work' 'help' 'come' 'know' 'return' 'rest' 'benefit'
+ 'recover' 'suffer' 'differ' 'hang']",[0. 0. 0. ... 0. 0. 0.],25,16,18,True,work,be
+301,"['<UNK>' ',' 'to' 'of' 'and' 'in' '""' ""'s"" 'for' 'on' 'with' 'as' 'at'
+ 'not' 'about' 'up' 'out' 'you' 'all' 'over' 'only' 'just' 'like' 'found'
+ 'without' 'better' 'seen' 'getting' 'done' 'read' 'improving'
+ 'appreciated']",[0.         0.         0.03124935 ... 0.         0.         0.        ],32,16,19,True,about,from
+302,,,0,16,20,False,your,your
+303,,,0,16,21,False,work,work
+304,"['<UNK>' 'to' 'of' 'and' 'in' '""' ""'s"" 'for' 'at' 'by' 'from' ')' '(' 'or'
+ 'after' ""'"" 'if' 'just' 'before']",[0.         0.         0.05257216 ... 0.         0.         0.        ],19,16,22,True,before,.
+305,"['<UNK>' 'the' ',' '""' ""'s"" 'that' 'he' 'What' 'Other' 'Those']",[0.         0.         0.10001118 ... 0.         0.         0.        ],10,17,0,True,Those,The
+306,,,0,17,1,False,laughs,laughs
+307,,,0,17,2,False,you,you
+308,,,0,17,3,False,two,two
+309,,,0,17,4,False,heard,heard
+310,"['<UNK>' 'the' ',' 'and' 'a' '""' ""'s"" 'that' 'is' 'was' 'said' 'as' 'it'
+ 'be' 'have' 'he' 'has' 'are' 'had' '--' 'but' 'more' 'or' ':' 'up' 'one'
+ 'also' 'when' '-' 'all' 'first' 'some' 'if' 'only' 'him' 'most' 'now'
+ 'many' 'back' 'get' 'those' 'even' 'may' 'then' 'Monday' 'show' 'later'
+ 'again' 'almost' 'often' 'once' 'recently' 'appeared' 'soon' 'probably'
+ 'quickly' 'seemed' 'sometimes' 'mostly' 'directly' 'moments' 'briefly']",[0.         0.         0.01611061 ... 0.         0.         0.        ],62,17,5,True,those,were
+311,,,0,17,6,False,triggered,triggered
+312,"['the' ',' 'to' 'of' 'and' 'a' 'in' '""' 'that' 'for' 'on' 'with' 'as' 'at'
+ 'from' 'but' 'after' 'out' 'two' 'over' 'last' 'some' 'only' 'most'
+ 'like' 'off' 'through' 'even' 'early']",[0. 0. 0. ... 0. 0. 0.],29,17,7,True,and,by
+313,,,0,17,8,False,memories,memories
+314,,,0,17,9,False,of,of
+315,,,0,17,10,False,his,his
+316,"['<UNK>' 'the' ',' '.' 'and' 'a' 'in' '""' ""'s"" 'that' 'as' 'his' '('
+ 'more' 'or' 'one' 'two' 'last' 'first' ""'"" 'other' 'new' 'only' 'most'
+ 'three' 'being' 'many' 'former' 'four' 'five' 'show' 'early' 'recent'
+ 'big' 'taking' 'young' 'often' 'playing' 'sometimes' 'fellow' 'famous']",[0.         0.         0.02440374 ... 0.         0.         0.        ],41,17,11,True,new,own
+317,"['<UNK>' 'the' ',' 'to' 'of' 'and' 'a' 'in' '""' 'that' 'on' 'with' '('
+ '--' 'but' 'one' 'two' 'people' '-' 'first' ""'"" 'only' 'most' 'three'
+ 'home' 'next' 'day' 'man' 'show' 'little' 'campaign' 'play' 'car' 'face'
+ 'film' 'name' 'child' 'music' 'story' 'book' 'heart' 'words' 'mind'
+ 'voice' 'image' 'character' 'dog' 'hair' 'conversation']",[0.         0.         0.02042177 ... 0.         0.         0.        ],49,17,12,True,in,high-flying
+318,"[',' 'and' '""' 'first' 'take' 'show' 'run' 'play' 'start' 'film' 'shows'
+ 'playing' 'heart' 'love' 'writing' 'acting' 'pop' 'dance' 'comedy'
+ 'singing' 'spell']",[0. 0. 0. ... 0. 0. 0.],21,17,13,True,",",exits
+319,,,0,17,14,False,off,off
+320,,,0,17,15,False,moving,moving
+321,,,0,17,16,False,beasts,beasts
+322,,,0,18,0,False,Well,Well
+323,,,0,18,1,False,",",","
+324,"['<UNK>' 'the' ',' 'of' 'and' 'a' '""' 'that' 'for' 'it' 'his' 'I' 'their'
+ 'they' 'but' 'this' 'more' 'her' 'when' 'two' 'all' 'first' 'we' 'other'
+ 'some' 'if' 'so' 'most' 'three' 'Obama' 'many' 'our' 'those' 'my' 'your'
+ 'both' 'these' 'good' 'China' 'right' 'few' 'hey']",[0.         0.         0.02377574 ... 0.         0.         0.        ],42,18,2,True,this,you
+325,"['<UNK>' ',' 'and' '""' 'not' 'will' '--' 'would' 'also' 'people' 'all'
+ 'can' 'could' 'just' 'now' 'do' 'even' 'may' 'should' 'still' 'did' 'too'
+ 'might' 'already' 'never' 'must' 'really' ""'ll"" ""'d"" 'probably'
+ 'actually' 'certainly' 'definitely' 'folks']",[0.         0.         0.02935412 ... 0.         0.         0.        ],34,18,3,True,",",guys
+326,,,0,18,4,False,have,have
+327,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'in' '""' 'that' 'for' 'on' 'said'
+ 'at' 'it' 'have' 'had' '--' 'been' 'this' 'more' 'about' 'up' 'one' 'out'
+ 'her' 'you' 'all' 'over' ""'"" 'other' 'there' 'time' 'them' 'so' 'him'
+ 'like' 'now' 'made' 'since' 'much' 'going' 'left' 'good' 'used' 'me'
+ 'long' '...' 'right' 'come' 'already' 'us' 'here' 'better' 'taken' 'seen'
+ 'enough' 'something' 'great' 'thought' 'shot' 'started' 'recently' 'done'
+ 'worked' 'tried' 'anything' 'heard' 'met' 'read' 'everything' 'passed'
+ 'changed' 'written' 'stopped' 'learned' 'fun' 'lied']",[0.         0.         0.01284058 ... 0.         0.         0.        ],78,18,5,True,--,gone
+328,,,0,18,6,False,and,and
+329,,,0,18,7,False,done,done
+330,"['<UNK>' 'the' ',' '.' 'to' 'and' 'a' 'in' '""' 'that' 'for' 'on' 'with'
+ 'as' 'at' 'not' '--' 'this' 'more' 'about' 'up' 'one' 'her' 'you' 'all'
+ 'over' ""'"" 'there' '?' 'them' 'so' 'what' 'just' 'him' 'like' 'now'
+ 'much' 'well' 'your' '10' 'good' 'me' 'long' '...' 'right' '!' 'us'
+ 'away' 'here' 'better' 'enough' 'something' 'great' 'things' 'real'
+ 'anything' 'wrong' 'fine' 'stuff' 'yourself' 'OK' 'okay']",[0.         0.         0.01612898 ... 0.         0.         0.        ],62,18,8,True,enough,it
+331,"['<UNK>' 'the' ',' '.' 'to' 'of' 'a' 'in' '""' ""'s"" 'that' 'for' 'on' 'is'
+ 'with' 'it' 'not' 'this' 'more' 'about' 'up' 'one' 'out' 'you' 'two'
+ 'all' 'over' 'first' ""'"" 'years' 'there' '?' 'so' 'only' 'before' 'back'
+ 'off' 'much' 'well' 'too' 'long' '...' 'right' '!' 'today' 'here'
+ 'better' 'again' 'yet' 'together' 'wrong' 'myself' 'yourself' 'anyway'
+ 'OK']",[0.         0.         0.01817928 ... 0.         0.         0.        ],55,18,9,True,?,now
+332,,,0,18,10,False,.,.
+333,"['.' '""' 'I' '--' ""'"" '?' '...']",[0. 0. 0. ... 0. 0. 0.],7,18,11,True,"""",You
+334,,,0,18,12,False,put,put
+335,,,0,18,13,False,the,the
+336,"['<UNK>' 'the' ',' '""' ""'"" 'New' '...']",[0.         0.         0.14390976 ... 0.         0.         0.        ],7,18,14,True,<UNK>,words
+337,,,0,18,15,False,'China,'China
+338,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'a' 'in' '""' ""'s"" 'that' 'on' 'is'
+ 'was' 'it' 'by' ')' '(' '--' 'this' 'up' 'one' 'out' 'you' '-' '?' ';'
+ 'Obama' '...' 'right' '!' '[' '*' '@' '#']",[0.         0.         0.02789949 ... 0.         0.         0.        ],36,18,16,True,on,'
+339,,,0,18,17,False,and,and
+340,,,0,18,18,False,'Chinese,'Chinese
+341,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' '""' ""'s"" 'that' 'for' 'is' 'with'
+ 'are' '--' 'out' 'you' '-' 'all' 'first' 'just' 'back' 'well' '...'
+ 'words' 'talking']",[0.         0.         0.03855299 ... 0.         0.         0.        ],26,18,19,True,'s,'
+342,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'a' 'in' '""' ""'s"" 'that' 'for' 'on'
+ 'is' 'was' 'with' 'said' 'as' 'at' 'it' 'by' 'from' 'have' 'are' 'not'
+ '--' 'were' 'but' 'this' 'more' 'or' 'about' ':' 'after' 'one' 'out'
+ 'you' 'two' 'people' '-' 'all' 'over' 'first' 'into' ""'"" '?' 'them' 'so'
+ 'only' 'just' 'like' 'now' ';' 'being' 'against' 'off' 'down' 'while'
+ 'through' 'even' 'between' 'still' 'then' 'during' 'under' 'around'
+ 'both' 'left' 'used' '...' 'put' 'past' 'without' '!' 'among' 'away'
+ 'across' 'again' 'near' 'along' 'within' 'above' 'read' 'below' 'words']",[0.         0.         0.01165467 ... 0.         0.         0.        ],86,18,20,True,along,up
+343,"['<UNK>' ',' 'to' 'of' 'and' 'a' 'in' '""' ""'s"" 'that' 'is' 'an' 'their'
+ 'but' 'more' 'or' 'her' 'two' 'all' 'first' ""'"" 'some' 'so' 'just' 'our'
+ 'my' 'well' 'your' 'very' 'high']",[0.         0.         0.03336254 ... 0.         0.         0.        ],30,18,21,True,<UNK>,the
+344,"['<UNK>' ',' 'and' '""' 'that' 'one' 'two' 'first' ""'"" 'most' 'good' 'same'
+ 'number' 'long' 'right' 'high' 'best' 'big' 'record' 'great' 'whole'
+ 'wrong' '*' 'exact']",[0.         0.         0.04180576 ... 0.         0.         0.        ],24,18,22,True,record,required
+345,"['<UNK>' 'last' 'set' 'good' 'right' 'kind' 'list' 'terms' 'numbers'
+ 'amount' 'range' 'scores']",[0.         0.         0.08345073 ... 0.         0.         0.        ],12,18,23,True,good,number
+346,"['<UNK>' 'the' ',' 'to' 'and' 'a' 'in' '""' 'for' 'is' 'as' 'at' 'or'
+ 'about' 'two' ""'"" 'three' 'four' '10' 'right']",[0.         0.         0.05005659 ... 0.         0.         0.        ],20,18,24,True,as,of
+347,,,0,18,25,False,times,times
+348,,,0,18,26,False,for,for
+349,"['<UNK>' ',' '.' 'to' 'and' 'a' 'in' '""' 'that' 'The' 'as' 'at' 'it' 'his'
+ 'an' 'not' 'their' 'this' 'which' 'more' 'its' 'about' 'one' 'her' 'you'
+ 'two' 'people' 'all' 'first' ""'"" 'other' 'new' 'years' 'time' 'some' 'no'
+ 'what' 'only' 'just' 'most' 'now' 'three' 'being' 'Obama' 'many' 'any'
+ 'our' 'such' 'those' 'even' 'how' 'much' 'my' 'next' 'your' 'very' 'US'
+ 'American' '10' 'another' 'months' 'these' 'good' 'children' 'too' 'me'
+ 'China' 'long' '...' 'health' 'life' '1' 'each' 'women' 'little' 'every'
+ '2' 'global' 'something' '3' 'free' 'great' 'media' 'real' 'different'
+ 'possible' 'Chinese' 'human' 'personal' 'someone' 'anyone' 'positive' '*'
+ 'negative' 'fun' 'myself' 'actual']",[0.         0.         0.01037047 ... 0.         0.         0.        ],97,18,27,True,their,the
+350,"['<UNK>' 'the' ',' 'and' '""' 'more' 'one' 'two' 'last' 'first' ""'"" 'other'
+ 'new' 'only' 'U.S.' 'most' 'three' 'many' 'New' 'next' 'second' 'very'
+ 'US' 'American' '10' 'good' 'same' 'five' 'China' '...' 'top' '2008'
+ 'best' 'British' 'third' 'recent' 'big' 'major' 'final' 'European' 'UK'
+ 'great' 'current' 'real' 'different' 'old' 'full' 'foreign' '100'
+ 'average' 'biggest' 'Chinese' 'latest' 'fourth' 'black' 'previous' 'BBC'
+ 'special' 'cause' 'whole' 'original' 'entire' 'First' '*' 'standard'
+ 'famous' 'so-called' '2012' 'actual' 'fake']",[0.         0.         0.01439375 ... 0.         0.         0.        ],70,18,28,True,...,dating
+351,"['<UNK>' 'the' ',' 'to' 'of' 'and' 'in' '""' ""'s"" 'that' 'for' 'with' ')'
+ 'which' 'or' ""'"" '?' '/' '...' '!' 'news' 'side' 'media' 'body' 'video'
+ 'newspaper' 'search' 'product' 'picture' 'image' 'magazine' 'internet'
+ 'page' 'photo' 'web' 'profile']",[0.         0.         0.02808684 ... 0.         0.         0.        ],36,18,29,True,search,Asians
+352,,,0,18,30,False,ad,ad
+353,"['<UNK>' 'the' ',' '.' 'of' 'and' 'a' 'in' '""' ""'s"" 'that' 'is' 'it'
+ 'have' 'has' 'are' ')' 'not' 'will' 'who' 'I' '--' 'they' 'this' 'which'
+ 'or' 'would' 'one' 'you' 'when' 'people' '-' 'all' 'can' 'first' ""'"" 'we'
+ 'she' 'there' '?' 'time' 'them' 'so' 'only' 'just' 'now' 'world' 'then'
+ 'did' '...' 'here' 'does' 'really']",[0.         0.         0.01893786 ... 0.         0.         0.        ],53,18,31,True,time,to
+354,,,0,18,32,False,come,come
+355,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'in' '""' 'that' 'on' 'it' 'this'
+ 'about' 'out' 'you' 'over' 'first' ""'"" '?' 'them' 'so' 'before' 'back'
+ 'off' 'down' 'around' '...' 'right' 'later' '!' 'here' 'again' 'forward']",[0.         0.         0.02942038 ... 0.         0.         0.        ],34,18,33,True,again,up
+356,,,0,18,34,False,.,.
+357,,,0,18,35,False,Evidently,Evidently
+358,"['<UNK>' 'the' '.' 'to' 'of' 'and' 'a' 'in' '""' 'that' 'for' 'on' 'with'
+ 'as' 'at' 'by' 'from' '(' '--' 'but' 'more' ':' 'one' 'out' 'when' '-'
+ '?' 'if' 'so' 'what' 'only' 'just' 'like' 'because' 'now' 'even' 'then'
+ 'my' '...' '!' 'why']",[0.         0.         0.02438879 ... 0.         0.         0.        ],41,18,36,True,out,","
+359,,,0,18,37,False,Ms.,Ms.
+360,"['<UNK>' ',' 'and' '""' ')' 'D' 'B']",[0.         0.         0.14600826 ... 0.         0.         0.        ],7,18,38,True,and,Zhang
+361,,,0,18,39,False,",",","
+362,"['<UNK>' 'the' ',' '.' 'to' 'and' 'a' 'in' '""' ""'s"" 'that' 'for' 'on'
+ 'one' 'her' 'two' 'over' ""'"" '?' 'long' '...' '!' '20' '30' '50' '25'
+ 'Chinese' '40' '24' '22' 'above' '21' '60' '35' '45' '32' '33' '36' '34'
+ '48' '37' '42' '44' '47' '52' '49' '51' '53']",[0.         0.         0.02093812 ... 0.         0.         0.        ],48,18,40,True,a,50Kg
+363,,,0,18,41,False,and,and
+364,"['<UNK>' 'the' ',' 'of' 'and' 'a' 'in' '""' 'that' 'on' 'as' 'at' 'I'
+ 'this' 'more' 'about' 'one' 'her' 'you' 'over' ""'"" 'now' '/' 'my'
+ 'Chinese' 'above' '+' 'S' 'C' 'Han' 'U']",[0.         0.         0.03493808 ... 0.         0.         0.        ],31,18,42,True,above,168cm
+365,,,0,18,43,False,[,[
+366,"['<UNK>' ',' 'to' 'of' 'and' 'in' 'on' 'is' 'was' 'with' 'as' 'at' 'by'
+ 'from' 'have' 'has' 'are' 'not' '(' 'or' 'about' ':' 'after' 'than' 'her'
+ 'you' '-' 'over' ""'"" '?' 'only' 'just' 'now' 'against' '/' 'even' '...'
+ 'above' 'below' '[' ']' '*' '=']",[0.        0.        0.0232574 ... 0.        0.        0.       ],43,18,44,True,to,for
+367,"['<UNK>' 'the' ',' 'of' 'and' '""' 'as' 'at' 'an' ')' 'I' ':' 'one' 'her'
+ 'over' ""'"" 'A' 'no' 'only' 'my' 'your' 'good' '1' '2' '5' 'average' '6'
+ 'My' '[' '+' 'female' 'normal' 'male']",[0.        0.        0.0304579 ... 0.        0.        0.       ],33,18,45,True,2,a
+368,,,0,18,46,False,BMI,BMI
+369,,,0,18,47,False,of,of
+370,,,0,18,48,False,17.8,17.8
+371,,,0,18,49,False,],]
+372,,,0,18,50,False,from,from
+373,,,0,18,51,False,'HuNan,'HuNan
+374,,,0,18,52,False,China,China
+375,"['<UNK>' 'the' ',' '.' 'and' '""' 'that' 'it' 'not' 'who' '--' 'they' 'but'
+ 'or' 'also' 'you' '-' 'all' '?' 'so' 'only' 'just' 'now' 'China' '...']",[0.         0.         0.04000885 ... 0.         0.         0.        ],25,18,53,True,.,'
+376,"['<UNK>' 'the' ',' '.' 'to' 'and' 'a' 'in' '""' ""'s"" 'that' 'for' 'on' 'is'
+ 'was' 'said' 'at' 'it' 'by' 'be' 'have' 'has' 'are' ')' 'not' 'had' '--'
+ 'but' 'or' 'about' 'up' 'one' 'out' 'you' 'all' 'over' '?' 'time' 'so'
+ 'only' 'just' 'where' 'down' 'China' '...' 'came' 'got' 'comes' 'means'
+ 'seems' 'takes' 'goes']",[0.         0.         0.01925074 ... 0.         0.         0.        ],52,18,54,True,goes,wants
+377,,,0,18,55,False,to,to
+378,,,0,18,56,False,meet,meet
+379,,,0,18,57,False,me,me
+380,,,0,18,58,False,.,.
+381,,,0,18,59,False,She,She
+382,,,0,18,60,False,has,has
+383,,,0,18,61,False,her,her
+384,"['<UNK>' 'the' ',' 'to' 'of' 'and' 'a' ""'s"" 'that' 'or' 'her' 'all' ""'""
+ '/' 'own' '...' 'big' 'mouth']",[0.         0.         0.05552974 ... 0.         0.         0.        ],18,18,62,True,and,little
+385,"['<UNK>' ',' 'to' 'of' 'and' 'in' '""' ""'s"" 'that' 'with' 'but' 'more' 'or'
+ 'one' 'her' 'back' 'left' '...' 'little' 'head' 'look' 'something' 'face'
+ 'things' 'body' 'question' 'hand' 'heart' 'questions' 'talk' 'bit' 'feet'
+ 'hands' 'words' 'comments' 'word' 'door' 'voice' 'arms' 'brain' 'eyes'
+ 'eye' 'foot' 'hair' 'leg' 'legs' 'neck' 'thoughts' 'chest' 'smile' 'nose'
+ 'finger' 'fingers' 'ear' 'ears' 'lips' 'tongue' 'breasts' 'eyebrows'
+ 'butt' 'chin']",[0.         0.         0.01638695 ... 0.         0.         0.        ],61,18,63,True,nose,mouth
+386,,,0,18,64,False,open,open
+387,,,0,18,65,False,like,like
+388,,,0,18,66,False,she,she
+389,"['<UNK>' ',' 'and' '""' ""'s"" 'was' 'are' 'or' ""'"" 'just' 'like' 'now'
+ 'still' 'already' 'really' 'often' 'always' 'started' 'needs' 'probably'
+ 'actually' 'kept' 'sometimes' 'usually' 'rarely']",[0.        0.        0.0399853 ... 0.        0.        0.       ],25,18,67,True,or,is
+390,,,0,18,68,False,speaking,speaking
+391,,,0,18,69,False,.,.
+392,,,0,18,70,False,What,What
+393,,,0,18,71,False,is,is
+394,"['<UNK>' ',' 'to' 'of' 'and' '""' ""'s"" 'for' 'as' 'not' 'I' 'you' 'all' ""'""
+ '?' 'so' 'what' 'now' 'then' 'why']",[0.         0.         0.05000558 ... 0.         0.         0.        ],20,18,72,True,why,that
+395,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'a' '""' ""'s"" 'that' 'it' 'he' ')'
+ 'not' 'I' '--' 'they' 'but' 'this' 'or' ':' 'one' 'people' '-' 'all' 'we'
+ 'she' '?' 'so' 'only' 'just' 'do' 'even' 'still' 'then' 'your' 'another'
+ 'me' '...' '!' 'really' 'why' 'Chinese' 'person' 'question' 'actually']",[0.         0.         0.02126839 ... 0.         0.         0.        ],47,18,73,True,do,you
+396,,,0,18,74,False,ask,ask
+397,,,0,18,75,False,",",","
+398,,,0,18,76,False,Zhang,Zhang
+399,,,0,18,77,False,?,?
+400,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'a' 'in' '""' ""'s"" 'that' 'for' 'on'
+ 'is' 'was' 'with' 'as' 'it' 'by' 'have' 'are' ')' 'not' 'I' '--' 'were'
+ 'but' 'this' 'which' 'or' 'about' ':' 'one' 'also' 'her' 'you' '-' 'all'
+ 'But' ""'"" 'there' '?' 'if' 'no' 'so' 'what' 'like' 'because' 'now' ';'
+ 'do' 'This' 'then' 'And' 'my' 'That' '...' '!' 'here' '&' 'So' 'why' 'No'
+ 'am' 'Now' 'Then' 'ask' 'Why' 'please' 'yes' 'Oh' 'oh' 'yeah' 'Ok' 'ah'
+ 'Er']",[0.         0.         0.01304922 ... 0.         0.         0.        ],77,18,78,True,And,Well
+401,,,0,18,79,False,",",","
+402,,,0,18,80,False,yes,yes
+403,"['<UNK>' 'the' '.' 'to' 'and' '""' 'that' 'for' 'it' 'not' '(' '--' 'but'
+ 'this' 'or' ':' 'you' 'people' '-' 'there' '?' 'if' ';' 'then' '...' '!'
+ '..' 'yes' '....' '.....']",[0.        0.        0.0332815 ... 0.        0.        0.       ],30,18,81,True,the,","
+404,,,0,18,82,False,as,as
+405,,,0,18,83,False,a,a
+406,,,0,18,84,False,matter,matter
+407,"[',' 'for']",[0. 0. 0. ... 0. 0. 0.],2,18,85,True,",",of
+408,"['<UNK>' '""']",[0.         0.         0.50004232 ... 0.         0.         0.        ],2,18,86,True,<UNK>,fact
+409,"['<UNK>' ',' 'to' 'and' 'as' 'but' 'or' 'you' 'so' 'i']",[0.         0.         0.09990531 ... 0.         0.         0.        ],10,18,87,True,and,I
+410,"['<UNK>' ',' 'and' 'is' 'was' 'be' 'have' 'are' 'not' 'had' 'were' 'also'
+ 'just' 'like' 'now' 'get' 'say' 'even' 'still' 'see' 'own' 'use' 'need'
+ 'want' 'know' 'find' 'really' ""'m"" 'asked' 'call' 'saw' 'met' 'actually'
+ 'tell' 'ask' 'hear']",[0.         0.         0.02774361 ... 0.         0.         0.        ],36,18,88,True,saw,am
+411,"['<UNK>' 'the' ',' 'to' 'of' 'and' '""' 'that' 'for' 'as' 'by' 'an' 'this'
+ 'one' 'her' 'you' 'my' 'your' 'another' 'living']",[0.         0.         0.05000267 ... 0.         0.         0.        ],20,18,89,True,<UNK>,a
+412,,,0,18,90,False,physician,physician
+413,"['<UNK>' ',' '""' '(' '--' ':' '-' '?' ';' '/' '...' '!' '[' '..' '....']",[0.         0.         0.06656265 ... 0.         0.         0.        ],15,18,91,True,<UNK>,.
+414,,,0,18,92,False,Why,Why
+415,"['<UNK>' 'the' ',' 'to' 'of' 'and' 'in' ""'s"" 'that' 'for' 'on' 'is' 'was'
+ 'at' 'it' 'be' 'have' 'has' 'not' 'will' 'had' 'were' 'or' 'would' ':'
+ ""'t"" 'you' '-' 'all' 'can' 'could' 'just' 'do' 'get' 'take' '...' 'want'
+ 'does' 'keep' 'stop' 'Is']",[0.         0.         0.02437322 ... 0.         0.         0.        ],41,18,93,True,were,are
+416,"['<UNK>' 'the' '""' 'that' 'it' 'not' 'I' 'they' 'people' 'all' 'we'
+ 'there' 'some' 'so' 'those' 'your' 'me' 'women' 'You' 'girls']",[0.         0.         0.04997427 ... 0.         0.         0.        ],20,18,94,True,"""",you
+417,"['<UNK>' 'of' 'with' 'all' 'having' 'getting' 'moving' 'holding' 'talking'
+ 'putting' 'keeping' 'raising' 'bringing' 'turning' 'pushing' 'sticking']",[0.         0.         0.06245276 ... 0.         0.         0.        ],16,18,95,True,<UNK>,clapping
+418,,,0,18,96,False,your,your
+419,"['<UNK>' ',' 'and' 'in' '""' 'up' 'one' 'two' 'people' ""'"" 'time' 'back'
+ 'down' 'around' 'children' 'family' 'head' 'side' 'body' 'child'
+ 'friends' 'phone' 'feet' 'words' 'kids' 'arms' 'eyes' 'dog' 'foot'
+ 'heads' 'hair' 'leg' 'arm' 'stuff' 'legs' 'neck' 'babies' 'shoes' 'mouth'
+ 'hat' 'fingers' 'heels' 'shoulders' 'knees' 'lips' 'breasts' 'toes'
+ 'noses' 'hips' 'thumbs' 'palms' 'wrists' 'paws']",[0.         0.         0.01887794 ... 0.         0.         0.        ],53,18,97,True,"""",hands
+420,,,0,18,98,False,together,together
+421,,,0,18,99,False,and,and
+422,,,0,18,100,False,jumping,jumping
+423,,,0,18,101,False,up,up
+424,,,0,18,102,False,and,and
+425,"['the' 'in' 'on' 'up' 'out' 'you' 'all' 'over' 'so' 'just' 'back' 'off'
+ 'then' 'going' 'away' 'saying' 'doing' 'thinking' 'reading' 'eating'
+ 'kissing']",[0. 0. 0. ... 0. 0. 0.],21,18,103,True,in,down
+426,"['<UNK>' ',' '.' '""' '(' '-' ""'"" '/' '...' '....']",[0.         0.         0.09991937 ... 0.         0.         0.        ],10,18,104,True,"""",?
+427,,,0,18,105,False,Stop,Stop
+428,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'a' 'in' '""' ""'s"" 'for' 'on' 'is'
+ 'with' 'as' 'at' 'it' 'by' 'from' 'not' 'their' '--' 'but' 'this' 'or'
+ ':' 'after' 'one' 'her' 'you' 'people' '-' 'all' 'over' ""'"" 'there' '?'
+ 'some' 'them' 'so' 'just' 'him' 'before' 'like' ';' 'being' 'any' 'those'
+ 'my' 'your' 'me' '...' '!' 'us' '&' 'saying' 'something' 'getting'
+ 'someone' '..' 'yourself' '....']",[0.         0.         0.01589613 ... 0.         0.         0.        ],63,18,106,True,something,that
+429,"['<UNK>' 'the' ',' '.' 'to' 'of' 'a' 'in' '""' ""'s"" 'that' 'for' 'on' 'is'
+ 'The' 'with' 'as' 'at' 'it' 'by' ')' 'not' '(' 'I' 'this' 'more' 'about'
+ 'one' 'you' 'people' '-' 'all' ""'"" 'other' 'there' '?' 'time' 'no' 'so'
+ 'like' 'country' 'way' 'my' 'your' 'day' 'part' 'very' 'money' 'man'
+ 'too' 'same' '...' 'right' 'life' '!' 'women' 'here' 'change' 'car' 'You'
+ 'again' 'point' 'really' 'saying' 'young' 'something' 'issue' 'woman'
+ 'line' 'real' 'old' 'problem' 'thing' 'child' 'person' 'black' 'book'
+ 'bad' 'question' 'kind' 'charge' 'white' 'someone' 'comment' 'talk'
+ 'love' 'bit' 'wrong' 'message' 'girl' 'sex' 'red' 'word' 'baby' 'sort'
+ 'thinking' 'type' 'guy' 'song' 'stuff' 'conversation' 'lying' 'kid'
+ 'stupid']",[0.         0.         0.00969308 ... 0.         0.         0.        ],104,18,107,True,about,squealing
+430,,,0,18,108,False,",",","
+431,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'a' 'in' '""' 'that' 'for' 'on' 'is'
+ 'The' 'with' 'said' 'as' 'it' 'by' 'from' 'be' 'have' 'are' 'not' 'but'
+ 'this' 'or' 'about' 'one' 'her' 'you' ""'"" 'there' '?' 'some' 'no' 'like'
+ 'get' 'our' 'says' 'say' 'my' 'your' '...' 'right' 'want' '!' 'big' 'You'
+ 'head' 'call' 'old' 'black' 'bad' 'white' 'straight' 'mean' 'baby' '*'
+ 'hot' 'sick' 'cool' 'fat' 'Oh' 'funny' 'sorry' 'dirty' 'oh' 'lazy' 'ma']",[0.         0.         0.01422342 ... 0.         0.         0.        ],71,18,109,True,it,young
+432,,,0,18,110,False,lady,lady
+433,,,0,18,111,False,and,and
+434,,,0,18,112,False,'exprain,'exprain
+435,"['<UNK>' 'the' 'to' 'of' 'and' 'a' 'in' '""' ""'s"" 'for' 'on' 'is' 'with'
+ 'at' 'it' 'by' 'from' 'be' 'have' 'not' '(' 'about' 'up' 'one' 'you'
+ 'into' 'no' 'just' 'do' 'get' 'take' 'your' 'see' 'need' 'put' 'want'
+ 'without' 'never' 'got' 'give' 'call' 'getting' 'try' 'stop' 'bring'
+ 'let' 'giving' 'pass' 'ask' 'asking' '*' 'please']",[0.         0.         0.01923534 ... 0.         0.         0.        ],52,18,113,True,bring,'
+436,"['<UNK>' 'the' ',' '.' 'to' 'of' 'a' 'in' ""'s"" 'is' 'was' 'it' 'by' 'be'
+ 'have' 'are' 'an' 'not' '(' 'were' 'this' 'or' ':' 'up' '-' 'into' ""'""
+ 'A' '?' 'if' 'no' 'what' 'being' 'say' 'should' 'way' 'work' 'well' 'go'
+ 'good' 'think' 'me' '...' 'life' 'want' 'know' '!' 'never' 'little'
+ 'really' 'old' 'live' 'thing' 'child' 'No' 'am' 'living' 'kids' '*' 'hot'
+ 'mouth' 'kid' 'c' 'b' 'o' 't' 'oh' 'Hello' 'h' 'wow' 'r']",[0.         0.         0.01436447 ... 0.         0.         0.        ],71,18,114,True,is,yourself
+437,,,0,18,115,False,!,!
+438,,,0,19,0,False,Fact,Fact
+439,,,0,19,1,False,:,:
+440,,,0,19,2,False,Georgia,Georgia
+441,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'in' '""' ""'s"" 'on' 'is' 'was'
+ 'with' 'as' 'have' 'has' 'had' 'were' 'or' 'also' 'only' 'just' 'now'
+ 'made' 'then' 'did' 'found' 'used' 'called' 'took' 'put' 'came' 'got'
+ 'went' 'announced' 'led' 'began' 'started' 'received' 'became' 'failed'
+ 'saw' 'ended' 'brought' 'tried' 'dropped' 'signed' 'built' 'broke'
+ 'posted' 'ran' 'produced' 'declared' 'entered' 'gained' 'enacted']",[0.         0.         0.01752648 ... 0.         0.         0.        ],57,19,3,True,had,passed
+442,,,0,19,4,False,a,a
+443,,,0,19,5,False,strict,strict
+444,"['<UNK>' 'the' ',' 'of' 'and' 'a' '""' 'one' 'first' ""'"" 'new' 'no'
+ 'government' 'U.S.' 'police' 'state' 'public' 'business' 'family' 'right'
+ 'health' 'military' 'economic' 'school' 'security' 'campaign' 'local'
+ 'change' 'national' 'oil' 'international' 'tax' 'federal' 'free' 'media'
+ 'water' 'food' 'line' 'energy' 'old' 'foreign' 'black' 'trade' 'drug'
+ 'social' 'white' 'education' 'travel' 'housing' 'border' 'domestic'
+ 'civil' 'red' 'fiscal' 'regional' 'environmental' 'stimulus'
+ 'enforcement' 'labor' 'fishing' 'export' 'marijuana' 'immigrant' 'visa'
+ 'import' 'customs' 'free-trade' 'anti-drug' 'one-child']",[0.         0.         0.01475573 ... 0.         0.         0.        ],69,19,6,True,new,immigration
+445,['<UNK>' 'and'],[0.         0.         0.49984144 ... 0.         0.         0.        ],2,19,7,True,and,policy
+446,"['<UNK>' 'the' ',' '.' 'to' 'of' 'in' '""' 'that' 'for' 'with' 'as' 'it'
+ 'by' 'from' 'not' '--' 'but' 'this' 'which' 'or' 'about' ':' 'after'
+ 'when' '-' 'last' 'first' 'there' '?' 'if' 'so' 'only' 'just' 'before'
+ 'like' 'because' ';' 'where' 'since' 'while' '...' 'until' 'today' 'here'
+ 'once' 'recently']",[0.         0.         0.02114311 ... 0.         0.         0.        ],47,19,8,True,for,and
+447,,,0,19,9,False,most,most
+448,,,0,19,10,False,of,of
+449,,,0,19,11,False,the,the
+450,,,0,19,12,False,Latino,Latino
+451,,,0,19,13,False,farm,farm
+452,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'in' '""' ""'s"" 'that' 'is' 'it'
+ 'have' 'he' 'has' 'are' 'I' 'had' 'they' 'or' 'people' 'just' 'now'
+ 'business' 'companies' 'members' 'industry' 'jobs' 'staff' 'students'
+ 'officers' 'families' 'employees' 'businesses' 'residents' 'population'
+ 'kids' 'owners' 'citizens' 'agents' 'drivers' 'farmers' 'worker'
+ 'immigrants' 'employers' 'folks' 'farms' 'migrants']",[0.         0.         0.02041616 ... 0.         0.         0.        ],49,19,14,True,drivers,workers
+453,,,0,19,15,False,left,left
+454,,,0,19,16,False,the,the
+455,,,0,19,17,False,area,area
+456,,,0,19,18,False,.,.
+457,,,0,19,19,False,Vidalia,Vidalia
+458,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'in' '""' ""'s"" 'that' 'for' 'is'
+ 'he' 'has' ')' 'also' 'people' '-' 'she' '?' 'just' 'now' 'Obama' 'state'
+ '...' 'already' '!' '&' 'local' 'area' 'City' 'State' 'Department'
+ 'states' 'County' 'population' 'county' 'Pennsylvania' 'USA']",[0.         0.         0.02525595 ... 0.         0.         0.        ],40,19,20,True,also,Georgia
+459,,,0,19,21,False,now,now
+460,"['<UNK>' ',' 'of' 'and' 'in' '""' ""'s"" 'is' 'was' 'have' 'will' 'had'
+ 'also' 'only' 'just' 'now' 'still' 'won' 'received' 'needs' 'includes'
+ 'offers' 'gets' 'represents' 'sees' 'produces' 'boasts']",[0.         0.         0.03700373 ... 0.         0.         0.        ],27,19,22,True,'s,has
+461,,,0,19,23,False,over,over
+462,,,0,19,24,False,3000,3000
+463,,,0,19,25,False,agriculture,agriculture
+464,"['<UNK>' ',' '.' 'to' 'of' 'and' 'in' '""' ""'s"" 'is' 'or' 'people'
+ 'million' '/' 'company' 'work' 'business' 'sales' 'industry' 'office'
+ 'working' 'jobs' 'staff' 'production' 'contract' 'department' 'union'
+ 'illegal' 'offices' 'manufacturing' 'labor' 'employment' 'worker' 'posts'
+ 'workforce' 'full-time']",[0.         0.         0.02779986 ... 0.         0.         0.        ],36,19,26,True,industry,job
+465,,,0,19,27,False,openings,openings
+466,,,0,19,28,False,and,and
+467,"['<UNK>' ',' 'to' 'and' '""' ""'s"" 'that' 'it' 'he' 'not' 'will' 'I' 'also'
+ 'you' 'people' 'can' 'we' 'so' 'only' 'government' 'just' 'now' 'even'
+ 'may' 'still' 'few' 'already' 'companies' 'far' 'workers' 'jobs' 'staff'
+ 'employees' 'businesses' 'employers']",[0.        0.        0.0287572 ... 0.        0.        0.       ],35,19,29,True,few,they
+468,,,0,19,30,False,have,have
+469,"['<UNK>' ',' 'and' 'not' 'also' 'only' 'just' 'now' 'even' 'already' 'got'
+ 'barely']",[0.         0.         0.08340745 ... 0.         0.         0.        ],12,19,31,True,not,been
+470,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'in' '""' 'that' 'on' 'this' 'more'
+ 'about' 'up' 'out' 'there' 'just' 'made' 'back' 'off' 'down' 'home'
+ 'well' 'going' 'good' 'used' 'expected' 'here' 'taken' 'working' 'having'
+ 'trying' 'asked' 'available' 'started' 'hard' 'looking' 'getting'
+ 'running' 'paid' 'helped' 'allowed' 'forced' 'moved' 'offered' 'seeking'
+ 'created' 'required' 'ready' 'planning' 'helping' 'happy' 'prepared'
+ 'waiting' 'voted' 'struggling' 'elected' 'promised' 'willing' 'hoping'
+ 'unable' 'picked' 'pushing' 'preparing' 'hired' 'lucky' 'employed']",[0.         0.         0.01470526 ... 0.         0.         0.        ],68,19,32,True,hoping,able
+471,,,0,19,33,False,to,to
+472,,,0,19,34,False,fill,fill
+473,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'a' 'in' '""' 'that' 'for' 'on'
+ 'with' 'as' 'at' 'by' 'more' 'or' 'up' '$' 'out' 'all' 'over' 'some'
+ 'them' 'only' 'just' 'even' 'around' 'another' 'every' 'nearly' 'almost'
+ 'approximately' 'roughly' 'hiring']",[0.         0.         0.02703752 ... 0.         0.         0.        ],37,19,35,True,by,about
+474,"['<UNK>' 'the' 'a' 'that' 'one' 'two' 'three' 'four' '10' 'five' '1' 'six'
+ '20' '30' '2' 'half' '12' '11' '15' '3' '5' '4' '50' '100' 'jobs' '25'
+ '18' '14' '16' '7' '13' '8' '6' '40' '9' '17' '24' '22' '21' '60' '23'
+ '28' '26' '500' '200' '70' '35' '80' '1,000' '45' '90' '300' '150' '400'
+ '100,000' '10,000' '42' '2,000' '44' '5,000' '3,000' '50,000' '700' '600'
+ '800' '20,000' '30,000' '200,000' '500,000' '4,000' 'two-thirds'
+ '250,000' '40,000' '300,000' '25,000' '15,000' '350' '6,000' '8,000'
+ '150,000' '900' '1,200' '180' '7,000' '60,000' '400,000' '12,000'
+ '70,000' '80,000' '600,000' '9,000' '35,000' '11,000' '800,000' '700,000'
+ '1000' '18,000' '75,000' '14,000' '13,000' '16,000' '45,000' '90,000'
+ '21,000' '125,000' '36,000' '38,000']",[0.         0.         0.00935963 ... 0.         0.         0.        ],107,19,36,True,"40,000",250
+475,,,0,19,37,False,of,of
+476,,,0,19,38,False,them,them
+477,['<UNK>' 'the' 'of' 'that' 'for' 'this' 'over' 'these'],[0.         0.         0.12456857 ... 0.         0.         0.        ],8,19,39,True,of,in
+478,,,0,19,40,False,past,past
+479,['<UNK>' 'the' 'and' 'years' 'week' 'months' 'days' 'jobs'],[0.         0.         0.12505665 ... 0.         0.         0.        ],8,19,41,True,week,year
+480,,,0,19,42,False,.,.
+481,"['<UNK>' ',' 'and' '""' ')' '--' '-' 'And' '...' 'For' 'To' 'Just' '*']",[0.         0.         0.07730334 ... 0.         0.         0.        ],13,19,43,True,Just,All
+482,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'a' 'in' '""' ""'s"" 'that' 'for' 'on'
+ 'is' 'The' 'was' 'with' 'said' 'at' 'it' 'by' 'from' 'have' 'has' 'are'
+ 'their' 'were' 'but' 'this' 'more' 'or' 'its' 'about' 'one' 'also' 'two'
+ 'people' 'all' 'over' 'other' 'new' 'there' 'some' 'them' 'million' 'now'
+ 'three' 'many' 'our' 'those' 'my' 'around' 'American' 'these' 'several'
+ 'local' 'working' 'current' 'Americans' 'white' 'These' 'illegal']",[0.        0.        0.0158295 ... 0.        0.        0.       ],63,19,44,True,The,you
+483,,,0,19,45,False,White,White
+484,"['<UNK>' ',' 'of' 'and' '""' ""'s"" 'that' 'is' 'have' 'are' 'will' 'or'
+ 'people' '/' 'American' 'business' 'need' '&' 'jobs' '+']",[0.         0.         0.05040409 ... 0.         0.         0.        ],20,19,46,True,will,Real
+485,,,0,19,47,False,Americans,Americans
+486,,,0,19,48,False,who,who
+487,"['<UNK>' ',' 'of' 'and' 'in' '""' ""'s"" 'is' 'was' 'be' 'have' 'were' 'also'
+ 'all' 'only' 'just' 'like' 'now' 'do' 'back' 'get' 'still' 'did' 'work'
+ 'go' 'left' 'come' ""'re"" 'came' 'already' 'went' 'start' 'really' 'keep'
+ 'began' 'ever' 'started' 'continue' 'spent' 'leave' 'actually'
+ 'currently' 'stopped' 'quit']",[0.         0.         0.02272671 ... 0.         0.         0.        ],44,19,49,True,like,are
+488,"['<UNK>' 'the' ',' '.' 'to' 'and' 'a' 'in' '""' 'that' 'on' 'as' 'have'
+ 'are' 'not' 'been' 'more' 'up' 'out' 'people' 'all' 'over' 'there' 'only'
+ 'just' 'now' 'made' 'back' 'off' 'home' 'around' 'going' 'left' 'good'
+ 'used' 'away' 'here' 'lost' 'job' 'working' 'asked' 'workers' 'jobs'
+ 'Americans' 'needed' 'arrested' 'paid' 'worked' 'employees' 'created'
+ 'fighting' 'gone' 'illegal' 'responsible' 'paying' 'fired' 'voted' 'rich'
+ 'picked' 'claiming' 'immigrants' 'hired' 'sick' 'qualified' 'hiring'
+ 'unemployed' 'hungry' 'illegals']",[0.         0.         0.01476136 ... 0.         0.         0.        ],68,19,50,True,voted,looking
+489,"['the' ',' 'to' 'and' 'a' 'in' 'on' 'at' 'have' 'are' 'will' 'after' 'up'
+ 'out' 'over' 'into' 'like' 'back' 'good' 'past']",[0. 0. 0. ... 0. 0. 0.],20,19,51,True,at,for
+490,"['<UNK>' 'the' ',' 'to' 'of' 'and' 'in' '""' 'that' 'is' 'it' 'have' 'are'
+ 'they' 'this' 'more' 'one' 'out' 'her' 'you' 'people' 'all' ""'"" 'time'
+ 'some' 'them' 'him' 'those' 'home' 'state' 'American' 'good' 'money'
+ 'business' 'me' '...' 'us' 'news' 'information' 'pay' 'better' 'change'
+ 'enough' 'job' 'something' 'food' 'real' 'workers' 'jobs' 'homes'
+ 'someone' 'income' 'housing' 'businesses' 'land' 'benefits' 'ways'
+ 'opportunity' 'places' 'positions' 'labor' 'immigrants' 'posts'
+ 'illegals']",[0.         0.         0.01564834 ... 0.         0.         0.        ],64,19,52,True,is,work
+491,,,0,19,53,False,that,that
+492,,,0,19,54,False,the,the
+493,"['<UNK>' 'the' '""' 'more' 'one' 'people' ""'"" 'only' 'government' 'Obama'
+ 'company' 'country' 'state' 'American' 'President' 'money' 'business'
+ 'president' 'family' '...' 'companies' 'economy' 'America' 'office'
+ 'Bush' 'tax' 'Clinton' 'others' 'banks' 'administration' 'McCain'
+ 'workers' 'jobs' 'bill' 'Americans' 'Congress' 'Democrats' 'person'
+ 'Republicans' 'GOP' 'guy' 'USA' 'folks' 'employer' 'republicans' 'bush'
+ 'democrats' 'american' 'obama' 'illegals' 'gov' 'govt' 'Gov' 'goverment'
+ 'repubs']",[0.         0.         0.01834645 ... 0.         0.         0.        ],55,19,55,True,obama,Latinos
+494,,,0,19,56,False,stole,stole
+495,,,0,19,57,False,from,from
+496,,,0,19,58,False,you..Where,you..Where
+497,,,0,19,59,False,are,are
+498,,,0,19,60,False,you,you
+499,,,0,19,61,False,?,?
+500,,,0,19,62,False,The,The
+501,"['<UNK>' 'the' ',' 'and' '""' 'that' 'more' 'people' ""'"" 'time' 'only'
+ 'just' 'Obama' 'world' 'home' 'country' 'way' 'work' 'day' 'end' '%'
+ 'good' 'need' 'long' '...' 'right' 'place' 'better' 'point' 'job' 'line'
+ 'problems' 'name' 'needs' 'question' 'rest' 'poor' 'numbers' 'post'
+ 'kids' 'ones' 'guys' 'posts' 'folks' 'republicans']",[0.         0.         0.02260063 ... 0.         0.         0.        ],45,19,63,True,right,jobs
+502,,,0,19,64,False,are,are
+503,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'a' 'in' '""' 'that' 'for' 'on' 'is'
+ 'with' 'as' 'at' 'by' 'from' 'be' 'are' 'not' 'this' 'about' 'up' 'out'
+ 'you' 'over' 'new' 'just' 'like' 'now' 'off' 'even' 'your' 'around'
+ 'left' 'called' '...' 'right' 'near' 'real' 'outside' 'leaving']",[0.         0.         0.02279537 ... 0.         0.         0.        ],44,19,65,True,a,i
+504,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'a' 'in' '""' ""'s"" 'that' 'for' 'on'
+ 'is' 'was' 'with' 'as' 'it' 'by' 'from' 'be' 'have' 'are' ')' 'not'
+ 'will' 'I' '--' 'were' 'they' 'but' 'this' 'more' 'or' 'about' ':' 'up'
+ 'one' 'also' ""'t"" 'out' 'you' 'people' '-' 'all' ""'"" 'there' '?' 'them'
+ 'so' 'only' 'just' 'like' 'now' 'being' 'get' 'even' 'much' 'still'
+ 'then' 'work' 'left' 'me' '...' 'right' ""'re"" '!' 'here' '&' 'really'
+ 'job' 'keep' ""'m"" 'always' 'workers' 'jobs' 'am' 'feel' 'leave'
+ 'probably' 'actually' 'love' 's' '..' 'i' '....' 'NOT' 'm' 're']",[0.         0.         0.01130426 ... 0.         0.         0.        ],90,19,66,True,feel,Vadalia
+505,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'a' 'in' '""' ""'s"" 'that' 'for' 'on'
+ 'is' 'was' 'with' 'as' 'at' 'it' 'by' 'from' 'have' 'are' ')' 'not' 'I'
+ '--' 'they' 'but' 'this' 'or' 'about' ':' 'after' 'one' 'also' 'out'
+ 'you' 'when' 'people' '-' 'all' 'over' ""'"" 'we' 'there' '?' 'them' 'if'
+ 'no' 'so' 'government' 'now' 'being' 'home' 'country' 'work' '%' 'left'
+ 'business' '...' 'without' 'already' '!' 'here' '&' 'office' 'job'
+ 'workers' 'jobs' '..' '....' '.....' '......']",[0.         0.         0.01346895 ... 0.         0.         0.        ],75,19,67,True,),just
+506,,,0,19,68,False,waiting,waiting
+507,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'a' 'in' '""' 'that' 'on' 'is'
+ 'with' 'as' 'at' 'it' 'by' 'from' 'not' '(' 'this' 'more' 'about' 'up'
+ 'out' 'you' '-' 'all' 'over' '?' 'them' 'no' 'so' 'what' 'like' 'because'
+ 'now' 'back' 'through' 'around' 'me' '...' '!' '&' '..' '....' '.....']",[0.         0.         0.02089203 ... 0.         0.         0.        ],48,19,69,True,through,for
+508,,,0,19,70,False,you..Or,you..Or
+509,,,0,19,71,False,maybe,maybe
+510,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'in' '""' ""'s"" 'that' 'for' 'on'
+ 'is' 'was' 'with' 'as' 'at' 'it' 'by' 'from' 'be' 'are' 'not' '--' 'but'
+ 'this' 'or' 'about' 'after' 'up' 'also' ""'t"" 'out' 'you' '-' 'all' 'over'
+ '?' 'only' 'just' 'like' 'because' 'get' 'even' 'see' 'me' 'use' '...']",[0.         0.         0.02061793 ... 0.         0.         0.        ],49,19,72,True,of,its
+511,,,0,19,73,False,the,the
+512,,,0,19,74,False,fact,fact
+513,,,0,19,75,False,that,that
+514,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' '""' ""'s"" 'that' 'it' 'he' 'who' 'I'
+ 'they' 'one' 'people' 'all' 'we' 'she' '?' 'some' 'them' 'so'
+ 'government' 'just' 'most' 'now' 'Obama' 'many' 'then' 'American'
+ 'business' '...' 'companies' 'here' 'America' 'workers' 'Americans'
+ 'someone' 'anyone' 'employees' 'businesses' 'everyone' 'unions'
+ 'employers' 'i' 'folks' 'YOU' 'republicans' 'obama' 'america' 'u'
+ 'americans']",[0.         0.         0.01857913 ... 0.         0.         0.        ],54,19,76,True,<UNK>,you
+515,"['<UNK>' 'the' ',' 'to' 'and' '""' ""'s"" 'that' 'is' 'be' 'have' 'not'
+ 'will' 'or' 'also' 'people' 'all' 'can' 'could' 'only' 'just' 'now' 'do'
+ 'even' 'may' 'should' 'still' 'did' '...' 'might' 'really' 'always' ""'ll""
+ ""'d"" 'probably' 'actually' 'dont' 'wouldnt']",[0.         0.         0.02638204 ... 0.         0.         0.        ],38,19,77,True,really,would
+516,,,0,19,78,False,rather,rather
+517,"['<UNK>' 'the' ',' 'to' 'of' 'and' 'a' 'in' '""' 'that' 'be' 'have' 'are'
+ 'an' 'not' 'had' 'their' 'this' 'more' 'than' ""'t"" 'you' 'people' 'all'
+ 'some' 'them' 'no' 'just' 'like' 'do' 'get' 'our' 'take' 'my' 'your'
+ 'see' 'own' 'need' 'want' 'pay' 'start' 'care' 'find' 'cut' 'face' 'stop'
+ 'feel' 'meet' 'bring' 'fight' 'create' 'beat' 'raise' 'drive' 'avoid'
+ 'receive' 'post' 'enjoy' 'earn' 'suffer' 'wage' 'american']",[0.         0.         0.01615849 ... 0.         0.         0.        ],62,19,79,True,wage,collect
+518,,,0,19,80,False,unemployment,unemployment
+519,,,0,19,81,False,like,like
+520,"['<UNK>' ',' 'to' 'of' 'and' 'a' 'for' 'as' '?' 'some' '...']",[0.         0.         0.09117311 ... 0.         0.         0.        ],11,19,82,True,...,the
+521,"['<UNK>' 'the' ',' '""' 'more' 'one' 'year' 'two' 'people' 'last' 'first'
+ ""'"" 'other' 'only' 'most' 'three' 'many' 'world' 'company' 'home'
+ 'country' 'way' 'work' 'day' 'President' 'end' '%' 'left' 'good' 'man'
+ 'number' 'president' 'family' 'right' '1' 'top' 'past' 'best' '2' 'job'
+ 'future' 'nation' 'majority' 'whole' 'equivalent' 'sick' 'typical']",[0.         0.         0.02180262 ... 0.         0.         0.        ],47,19,83,True,the,rest
+522,"['<UNK>' 'the' ',' '.' 'to' 'and' 'in' 'that' 'for' 'on' 'is' 'from' 'are'
+ 'or' 'than' 'you' '?' 'do' '...' '!']",[0.         0.         0.05001342 ... 0.         0.         0.        ],20,19,84,True,or,of
+523,,,0,19,85,False,the,the
+524,"['<UNK>' 'the' '""' 'other' 'American' '...' 'real']",[0.         0.         0.14558565 ... 0.         0.         0.        ],7,19,86,True,real,Tea
+525,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'in' ""'s"" 'that' 'is' ')' '...' '!'
+ '&' '..']",[0.         0.         0.06310784 ... 0.         0.         0.        ],16,19,87,True,),Klaners..
+526,"['<UNK>' 'the' ',' '.' 'to' 'of' 'and' 'a' 'in' '""' ""'s"" 'that' 'for' 'on'
+ 'is' 'was' 'with' 'said' 'as' 'at' 'it' 'by' 'from' 'be' 'have' 'has'
+ 'his' 'are' 'an' ')' 'not' 'will' 'I' 'their' '--' 'but' 'this' 'more'
+ 'or' 'its' 'about' 'after' 'up' '$' 'one' 'than' ""'t"" 'out' 'you'
+ 'people' '-' 'all' 'over' 'first' ""'"" 'other' 'there' '?' 'time' 'some'
+ 'them' 'if' 'no' 'so' 'just' 'before' 'like' 'now' 'do' 'any' 'while'
+ 'get' 'our' 'says' 'say' 'including' 'then' 'my' 'well' 'your' 'another'
+ 'see' 'go' '%' 'good' 'me' 'use' '...' 'right' 'know' 'without' '!' '&'
+ 'better' 'am' '+' 'http' 'plus' '..' 'please' 'ad' '@' 'i' '>' 'c' 'b'
+ 'o' 'y' 'hey' 'thats' 'u' 'lol']",[0.         0.         0.00909561 ... 0.         0.         0.        ],112,19,88,True,just,You
+527,"['<UNK>' 'the' ',' 'to' 'of' 'and' 'in' '""' ""'s"" 'that' 'is' 'as' 'be'
+ 'have' 'are' 'not' '(' 'will' 'who' 'would' ""'t"" 'people' '-' 'all' 'can'
+ ""'"" 'could' 'no' 'only' 'just' 'like' 'now' 'do' 'get' 'make' 'say'
+ 'even' 'may' 'should' 'then' 'did' 'take' 'help' 'see' 'go' 'called'
+ 'use' 'don' 'need' '...' 'might' ""'re"" 'want' 'know' '!' 'got' 'pay'
+ 'care' 'must' 'really' 'keep' ""'m"" 'call' 'always' 'name' ""'ll"" 'buy'
+ 'stop' 'love' 'ask' 'write' 'hate' 'deserve' 'gonna']",[0.         0.         0.01356607 ... 0.         0.         0.        ],74,19,89,True,<UNK>,scream..you
+528,,,0,19,90,False,complain..and,complain..and
+529,"['<UNK>' ',' '.' 'to' 'of' 'and' 'a' '""' ""'s"" 'that' 'for' 'is' 'as' 'it'
+ 'be' 'are' ')' 'not' 'will' 'who' 'I' 'they' 'but' 'more' 'or' 'would'
+ 'than' 'also' ""'t"" 'people' 'all' 'can' 'we' 'could' '?' 'them' 'so'
+ 'only' 'just' 'like' 'now' 'do' 'even' 'may' 'should' 'still' 'then'
+ 'well' 'your' 'day' 'help' 'both' 'me' '...' 'already' '!' 'us' 'never'
+ 'better' 'does' 'must' 'really' 'once' 'always' 'probably' 'actually'
+ 'cannot' 'instead' 'simply' 'sometimes' 'maybe' 'please' 'i' 'folks' 't'
+ 'dont' 'cant']",[0.         0.         0.01304774 ... 0.         0.         0.        ],77,19,91,True,will,you
+530,,,0,19,92,False,sit,sit
+531,"['<UNK>' 'the' ',' 'to' 'of' 'and' 'a' 'in' 'that' 'for' 'on' 'is' 'with'
+ 'as' 'it' 'by' 'from' 'not' 'this' 'or' 'about' 'up' 'out' 'you' 'them'
+ 'him' 'like' 'back' 'your' 'me']",[0.         0.         0.03335411 ... 0.         0.         0.        ],30,19,93,True,back,at
+532,,,0,19,94,False,home,home
+533,"['<UNK>' ',' '.' 'to' 'of' 'and' '""' 'for' 'on' 'is' 'with' 'as' 'at' 'by'
+ 'from' 'are' 'not' '--' 'but' 'or' 'about' ':' 'after' 'up' 'out' 'all'
+ 'over' 'only' 'just' 'like' 'while' '...' '!' '&' 'playing' 'calling'
+ 'paying']",[0.         0.         0.02704233 ... 0.         0.         0.        ],37,19,95,True,calling,in
+534,"['<UNK>' 'the' ',' 'and' 'a' 'in' '""' 'that' 'his' 'their' 'its' 'her'
+ 'you' 'two' 'all' ""'"" 'other' 'some' 'them' 'many' 'New' 'our' 'those'
+ 'my' 'these' '...' '2' 'real']",[0.         0.         0.03601744 ... 0.         0.         0.        ],28,19,96,True,',your
+535,,,0,19,97,False,wife,wife
+536,"['<UNK>' ',' '...']",[0.         0.         0.33310749 ... 0.         0.         0.        ],3,19,98,True,",",beaters
+537,,,0,19,99,False,and,and
+538,"['<UNK>' 'the' ',' 'to' 'of' 'and' 'a' 'in' '""' 'that' 'for' 'on' 'is'
+ 'with' 'at' 'it' 'from' 'be' 'have' 'he' 'his' 'are' 'an' 'not' 'I'
+ 'their' 'they' 'this' 'more' 'about' 'one' 'also' ""'t"" 'you' 'people'
+ 'all' 'can' ""'"" 'we' 'other' 'some' 'if' 'no' 'so' 'what' 'only' 'just'
+ 'most' 'like' 'being' 'do' '/' 'get' 'our' 'those' 'say' 'even' 'how'
+ 'still' 'my' 'under' 'your' 'own' 'too' 'me' 'use' '...' 'never' 'every'
+ 'look' 'feel' 'white' 'stay' 'everyone' 'i']",[0.         0.         0.01347967 ... 0.         0.         0.        ],75,19,100,True,...,drink
+539,,,0,19,101,False,beer..Typical,beer..Typical
+540,"['<UNK>' 'the' ',' 'to' 'of' 'and' 'a' 'in' '""' ""'s"" 'for' 'on' 'is' 'was'
+ 'with' 'as' 'by' 'are' ')' '--' 'or' 'about' 'you' '-' 'first' ""'"" 'no'
+ 'only' 'Obama' 'says' 'say' 'American' '...' '&' 'real' 'old']",[0.         0.         0.02776832 ... 0.         0.         0.        ],36,19,102,True,of,Real
+541,,,0,19,103,False,White,White
+542,,,0,19,104,False,Tea,Tea
+543,,,0,19,105,False,Klan,Klan
+544,,,0,19,106,False,...,...
